@@ -1,0 +1,273 @@
+{
+  "nav": [
+    "Suporta",
+    "Privacy",
+    "Mga Tuntunin",
+    "Data at pagbura",
+    "Mga Lisensya"
+  ],
+  "skip": "Lumaktaw sa nilalaman",
+  "contents": "Sa pahinang ito",
+  "back": "Bumalik sa suporta",
+  "updated": "Petsa ng bisa at huling pag-update: 14 Oktubre 2026",
+  "footer": "Suporta at legal na impormasyon para sa Boxmello.",
+  "footer_note": "Walang idinagdag na advertising o analytics ng bisita sa site na ito. Ipinaliliwanag sa aming Patakaran sa Privacy ang privacy kaugnay ng pagho-host.",
+  "home": {
+    "title": "Kaunting tulong sa Boxmello.",
+    "eyebrow": "BOXMELLO · SUPORTA",
+    "lede": "May tanong tungkol sa iyong palaisipan, pagbili, o data? Hanapin ang sagot dito, o direktang sumulat sa developer.",
+    "contact_button": "Mag-email sa suporta",
+    "faq_button": "Tingnan ang mga karaniwang tanong",
+    "facts": [
+      "Walang account sa laro",
+      "Naka-save ang progreso sa iyong device",
+      "Opsyonal na pagbili sa loob ng app"
+    ],
+    "documents_title": "Malinaw na paliwanag tungkol sa iyong impormasyon.",
+    "documents_intro": "Privacy, mga pagbili, at mga tuntuning nalalapat kapag naglalaro ka.",
+    "cards": [
+      [
+        "privacy",
+        "01 · IYONG PRIVACY",
+        "Patakaran sa Privacy",
+        "Ano ang nananatili sa iyong device, ano ang pinangangasiwaan ng Apple, at ano ang nangyayari kapag nakipag-ugnayan ka sa suporta."
+      ],
+      [
+        "terms",
+        "02 · PAGLALARO NG BOXMELLO",
+        "Mga Tuntunin ng Paggamit",
+        "Mga patakaran sa laro, opsyonal na pagbili, refund, at ang Standard EULA ng Apple."
+      ],
+      [
+        "data-deletion",
+        "03 · IYONG KONTROL",
+        "Data at pagbura",
+        "Burahin ang mga lokal na save, pamahalaan ang mga backup, o hilinging burahin ang pakikipagsulatan sa suporta."
+      ],
+      [
+        "licenses",
+        "04 · PAGKILALA",
+        "Mga Lisensya at Pagkilala",
+        "Pagkilala sa mga font ng third party at ang buong mga abiso ng kanilang bukas na lisensya."
+      ]
+    ],
+    "contact_title": "Makipag-ugnayan.",
+    "contact_copy": "Ang Boxmello ay binuo ni Bayram Baş. Para sa tulong, mga ulat ng bug, puna sa accessibility, o kahilingan sa privacy, mag-email sa:",
+    "contact_hint": "Isama ang modelo ng iyong device, bersyon ng iOS, bersyon ng Boxmello (sa Mga Setting), numero ng level kung may kaugnayan, at kung ano ang nangyari. Maaaring makatulong ang screenshot; alisin muna ang personal na impormasyon.",
+    "contact_safety": "Huwag kailanman ipadala ang password ng iyong Apple Account, detalye ng payment card, o dokumento ng pagkakakilanlan. Kung kailangan ang detalye ng pagbili, hihingin namin ang pinakamababang kinakailangang impormasyon.",
+    "faq_title": "Mga karaniwang tanong",
+    "faqs": [
+      [
+        "Saan naka-save ang aking progreso?",
+        "<p>Sa iyong device, kasama ang balanse ng barya, mga pantulong, dekorasyon, at mga setting. Walang account sa laro o sariling cloud sync ang Boxmello. Maaaring may data ng app ang mga backup ng device depende sa iyong mga setting sa Apple, ngunit hindi ito garantisadong serbisyo ng pagbawi ng Boxmello.</p><p><strong>Makipag-ugnayan muna sa suporta bago burahin o muling i-install ang app upang ayusin ang isang problema.</strong> Kapag ginawa mo ito, maaaring mawala ang progreso at mga baryang hindi pa nagagamit.</p>"
+      ],
+      [
+        "Paano ko maibabalik ang Mint na Koreo (Mint Post)?",
+        "<p>Gamitin ang Apple Account na ginamit sa orihinal na pagbili, kumonekta sa internet, at piliin ang <strong>Ibalik ang mga Binili</strong> sa Tindahan o Mga Setting sa laro. Sinusuri nito ang mga kwalipikadong permanenteng kosmetikong pagbili, kabilang ang Mint na Koreo (Mint Post). Hindi nito muling binubuo ang progreso sa mga level o balanse ng nauubos na barya.</p>"
+      ],
+      [
+        "Nakabinbin o hindi pa lumilitaw ang isang pagbili. Ano ang dapat kong gawin?",
+        "<p>Huwag magbayad muli para sa parehong pagbiling hindi pa natatanggap. Suriin ang koneksyon mo at kung naghihintay ang Apple ng bayad o pag-apruba ng pamilya. Buksan muli ang Boxmello upang masubukan nitong muli ang mga beripikadong paghahatid. Para sa Mint na Koreo (Mint Post), subukan din ang Ibalik ang mga Binili. Kung hindi pa rin malutas, mag-email sa developer kasama ang pangalan ng produkto, tinatayang oras ng pagbili, bersyon ng app, at mensaheng ipinakita. Takpan ang impormasyon sa resibo na walang kaugnayan.</p>"
+      ],
+      [
+        "Maaari ko bang ibalik ang mga pakete ng barya o ilipat ang progreso sa ibang device?",
+        "<p>Ang mga pakete ng barya ay mga nauubos na pagbili. Hindi muling nililikha ng Ibalik ang mga Binili ang mga baryang naihatid na, nagamit na item, o lokal na progreso. Walang wallet na nakabatay sa account o pag-sync ng mga save sa pagitan ng mga device. Maaaring mawala ang natitirang barya at progreso kapag nagpalit ng device o binura ang app.</p>"
+      ],
+      [
+        "Paano gumagana ang mga refund?",
+        "<p>Pinangangasiwaan ng Apple ang mga bayad at kahilingan sa refund para sa mga pagbili sa App Store. Bisitahin ang <a href=\"https://reportaproblem.apple.com/\">serbisyong Mag-ulat ng Problema ng Apple</a> o basahin ang <a href=\"https://support.apple.com/en-us/118223\">mga tagubilin ng Apple sa refund</a>. Nakadepende ang pagiging kwalipikado sa pagbili at sa naaangkop na batas. Maaaring alisin ng isang beripikadong refund ang kaugnay na karapatan sa kosmetikong item o ang kaugnay na mga baryang hindi pa nagagastos.</p>"
+      ],
+      [
+        "Kailangan ba ng Boxmello ng koneksyon sa internet?",
+        "<p>Gumagamit ang karaniwang paglalaro ng palaisipan ng nilalamang kasama sa app at maaari itong gumana nang offline. Kailangan ng access sa mga serbisyo ng Apple para mag-load ng mga produkto sa App Store, bumili, o ibalik ang mga permanenteng pagbili. Kailangan din ng koneksyon para sa email ng suporta at sa website na ito.</p>"
+      ],
+      [
+        "Hindi tumutugon, biglang nagsasara, o hindi nagse-save ang laro. Ano ang maaari kong subukan?",
+        "<p>Isara at buksan muli ang Boxmello, suriin ang bakanteng storage ng device, at i-install ang anumang available na update ng app at iOS. Kung may lumabas na error sa pag-save, panatilihing naka-install ang app at ipadala sa suporta ang eksaktong mensahe. Iwasan ang paulit-ulit na pagbili o pagbura ng app habang nagsisiyasat kami.</p>"
+      ],
+      [
+        "Paano ko babaguhin ang wika o mga opsyon sa accessibility?",
+        "<p>Buksan ang Mga Setting sa laro para sa wika, musika, tunog, Panginginig, Bawasan ang galaw, at Mas malinaw na balangkas. Kung mahirap gamitin ang teksto, mga kontrol, o VoiceOver, ipadala sa suporta ang modelo ng iyong device at isang paglalarawan ng screen.</p>"
+      ],
+      [
+        "Paano ko buburahin ang aking data?",
+        "<p>Walang Boxmello account na buburahin. Magkahiwalay na pinangangasiwaan ang lokal na data ng app, mga backup ng device, email ng suporta, at talaan ng pagbili ng Apple. Sundin ang <a href=\"{DATA}\">gabay sa data at pagbura</a> para sa bawat isa.</p>"
+      ]
+    ]
+  },
+  "pages": {
+    "privacy": {
+      "title": "Patakaran sa Privacy",
+      "eyebrow": "IYONG PRIVACY",
+      "lede": "Praktikal na paliwanag tungkol sa mga lokal na save ng Boxmello, serbisyo ng Apple, email ng suporta, at website na ito. Ito rin ang aming abiso sa ilalim ng Batas sa Proteksyon ng Personal na Data ng Türkiye (KVKK).",
+      "sections": [
+        [
+          "controller",
+          "1. Sino ang responsable?",
+          "<p>Ang Boxmello ay ibinibigay ni <strong>Bayram Baş</strong> sa Türkiye. Para sa personal na data na pinangangasiwaan ng developer, si Bayram Baş ang tagakontrol ng data. Makipag-ugnayan sa: <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>.</p><p>Saklaw ng patakarang ito ang kasalukuyang laro para sa iOS/iPadOS, ang website ng suportang ito, at ang pakikipagsulatan sa developer. Pinoproseso rin ng Apple at GitHub ang impormasyon para sa sarili nilang mga serbisyo sa ilalim ng kani-kanilang mga abiso sa privacy.</p>"
+        ],
+        [
+          "game-data",
+          "2. Data na nakaimbak sa laro",
+          "<p>Hindi ipinapadala ng karaniwang paglalaro mula sa App Store ang iyong save sa server ng developer. Walang account sa laro, advertising SDK, third-party analytics SDK, o pagsubaybay sa iba’t ibang app ang Boxmello. Hindi nito hinihingi ang access sa iyong lokasyon, mga contact, camera, o mikropono.</p><p>Iniimbak ng app ang isang lokal na identifier ng profile na random na nabuo, progreso sa mga level, score at mga bituin, kasalukuyang estado ng palaisipan, balanse ng barya at mga pantulong, dekorasyon, araw-araw na gantimpala, estado ng tutorial, at mga setting. Nag-iimbak din ito ng mga tala sa pagberipika ng pagbili gaya ng mga identifier ng produkto at transaksyon, petsa ng pagproseso, estado ng refund, at karapatan sa mga permanenteng pagbili. Pinapahintulutan ng mga ito ang app na i-save ang laro, iwasan ang dobleng paghahatid ng pagbili, at ilapat ang mga beripikadong pagbabago sa pagbili.</p><p>Ang save at ang kopya nito para sa pagbawi ay nasa iisang device. Hindi ang mga ito hiwalay na cloud backup. Maaaring kasama ang data na ito sa mga feature ng Apple para sa backup o paglipat ng device depende sa iyong mga setting. Walang malayuang access ang developer sa iyong lokal na save.</p><p>Ang impormasyon ng lokal na save at StoreKit ay pinoproseso sa elektronikong paraan at awtomatiko sa device upang ibigay ang laro at beripikahin ang mga pagbili, batay sa pagtupad sa kontrata sa Artikulo 5(2)(c) ng KVKK.</p>"
+        ],
+        [
+          "apple",
+          "3. Mga pagbili at impormasyong ibinibigay ng Apple",
+          "<p>Pinangangasiwaan ng Apple ang mga bayad sa App Store sa pamamagitan ng StoreKit. Tumatanggap ang Boxmello ng beripikadong impormasyon ng transaksyon at karapatan sa iyong device upang maihatid ang mga pagbili at mapangasiwaan ang pagpapanumbalik o refund. Hindi natatanggap ng developer ang detalye ng iyong payment card o password ng Apple Account.</p><p>Maaaring magbigay ang Apple sa developer ng mga buod ng benta at ulat ng performance o pag-crash ng app. Nakadepende sa mga serbisyo ng Apple at mga pagpili mo sa device ang pagbabahagi ng paggamit at pag-crash; hiwalay ito sa isang analytics SDK sa Boxmello. Tingnan ang <a href=\"https://www.apple.com/legal/privacy/data/en/app-analytics/\">Analytics ng App at Privacy</a> at ang <a href=\"https://www.apple.com/legal/privacy/en-ww/\">Patakaran sa Privacy ng Apple</a>. Maaari mong suriin ang pagbabahagi sa Mga Setting ng iOS → Privacy at Seguridad → Analytics at Mga Pagpapahusay.</p><p>Ang mga ulat sa diagnostic na hawak ng developer ay ginagamit upang tukuyin at ayusin ang mga pagkakamali, batay sa mga lehitimong interes sa ilalim ng Artikulo 5(2)(f) ng KVKK, na tinitimbang laban sa iyong mga karapatan. Ang mga kopyang hawak ng developer ay pinananatili lamang habang kailangan upang siyasatin at lutasin ang problema o tuparin ang isang legal na obligasyon o paghahabol, pagkatapos ay binubura o ginagawang hindi makikilala ang mga ito. Kinokontrol ng Apple ang pagpapanatili ng mga ulat sa sarili nitong mga serbisyo.</p>"
+        ],
+        [
+          "support",
+          "4. Pakikipagsulatan sa suporta at mga legal na batayan",
+          "<p>Kung mag-email ka sa developer, natatanggap sa pamamagitan ng iCloud Mail ang iyong email address, pangalan ng nagpadala, mensahe, at anumang attachment o teknikal na detalyeng pinili mong ibigay. Kailangan ng email address at sapat na impormasyon tungkol sa iyong tanong upang makasagot sa email; maaari kang maglaro nang hindi nakikipag-ugnayan sa amin. Iwasang magpadala ng sensitibong personal na impormasyon.</p><p>Ginagamit ang data ng suporta upang sagutin ang iyong kahilingan, siyasatin ang isang problema, tumulong sa mga pagbili, ayusin ang naiulat na problema, o pangasiwaan ang isang kahilingan sa privacy. Hindi ito ginagamit para sa advertising, mailing list, pagbebenta ng personal na data, o awtomatikong desisyon tungkol sa iyo.</p><div class=\"table-wrap\"><table><caption>Mga layunin at legal na batayan para sa data ng suporta na pinangangasiwaan ng developer</caption><thead><tr><th scope=\"col\">Layunin</th><th scope=\"col\">Batayan sa KVKK</th></tr></thead><tbody><tr><td>Sagutin ang suporta sa laro o pagbili na kailangan upang ibigay ang laro</td><td>Artikulo 5(2)(c): pagtupad sa kontrata</td></tr><tr><td>Siyasatin ang mga pagkakamali at protektahan ang pakikipagsulatan sa suporta laban sa pang-aabuso, nang iginagalang ang iyong mga karapatan</td><td>Artikulo 5(2)(f): mga lehitimong interes</td></tr><tr><td>Tumugon sa mga legal na kahilingan sa data o kinakailangang pagsisiwalat</td><td>Artikulo 5(2)(ç): mga legal na obligasyon</td></tr><tr><td>Lutasin ang mga alitan o magtatag, gumamit, o magtanggol ng isang legal na paghahabol</td><td>Artikulo 5(2)(e): proteksyon ng mga karapatan</td></tr></tbody></table></div><p>Kung may ibang naaangkop na batas sa privacy na nangangailangan ng ibang batayan, nalalapat ang kaukulang batayan sa kontrata, legal na obligasyon, o lehitimong interes. Kung kailangan ng pahintulot para sa hiwalay na opsyonal na gawain, dapat itong hingin nang hiwalay; hindi kusang nagbibigay ng pahintulot ang pagbabasa ng patakarang ito.</p>"
+        ],
+        [
+          "website",
+          "5. Pagho-host ng website at cookies",
+          "<p>Walang cookies, lokal na storage, advertising, contact form, naka-embed na social widget, o analytics ng bisita na idinagdag ng developer sa static na website ng suportang ito. Inihahatid kasama ng site ang mga larawan at estilo; walang ginagamit na third-party na serbisyo ng font.</p><p>Hino-host ng GitHub Pages ang site. Sinasabi ng GitHub na itinatala nito ang IP address ng mga bisita para sa seguridad, kabilang ang mga pagbisita nang hindi naka-sign in. Kinokontrol ng GitHub ang mga log ng pagho-host na iyon; hindi tumatanggap ang developer ng indibidwal na log ng bisita sa pamamagitan ng site na ito. Tingnan ang <a href=\"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection\">pangongolekta ng data ng GitHub Pages</a> at ang <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">Pahayag sa Privacy ng GitHub</a>. Kapag sinundan mo ang isang panlabas na link, mapupunta ka sa serbisyo ng provider na iyon.</p>"
+        ],
+        [
+          "sharing",
+          "6. Mga tatanggap at pagproseso sa labas ng iyong bansa",
+          "<p>Nagbibigay ang Apple ng mga serbisyo sa pagbabayad, pag-uulat ng platform, backup ng device kung pinagana, at iCloud Mail. Nagbibigay ang GitHub ng pagho-host at seguridad ng website. Pinangangasiwaan ni Bayram Baş at ng mga serbisyong email na naghahatid nito ang pakikipagsulatan sa suporta. Maaari ring ibunyag ang impormasyon sa mga kinauukulang awtoridad kapag hinihingi ng batas, o sa mga propesyonal na tagapayo kung kailangan para sa isang legal na paghahabol, na limitado sa kinakailangan.</p><p>Tinatanggap at iniimbak ang mga mensahe ng suporta sa pamamagitan ng iCloud Mail ng Apple; maaaring iproseso ang nilalaman ng mensahe, impormasyon ng nagpadala, at mga attachment sa imprastraktura sa labas ng Türkiye o ng bansa kung saan ka nakatira. Pinoproseso rin ng GitHub ang mga log ng IP ng bisita sa internasyonal nitong imprastraktura upang ihatid at protektahan ang site na ito. Ipinaliliwanag ng mga abiso sa privacy ng Apple at GitHub ang mga serbisyong iyon. Hindi itinuturing na pahintulot sa internasyonal na paglilipat ang pagbisita sa site o pag-email sa suporta. Maaaring ipadala sa contact sa itaas ang mga tanong tungkol sa isang partikular na paglilipat ng data na hawak ng developer.</p>"
+        ],
+        [
+          "retention",
+          "7. Pagpapanatili at seguridad",
+          "<p>Nananatili ang mga lokal na save sa iyong device hanggang alisin ang data ng app; hiwalay na kinokontrol ang mga kopya sa backup ng device o cloud. Pinananatili lamang ang pakikipagsulatan sa suporta habang kailangan upang lutasin ang kahilingan at kaugnay na follow-up, tuparin ang isang naaangkop na legal na obligasyon, o magtatag, gumamit, o magtanggol ng isang legal na paghahabol. Nakadepende ang kaukulang panahon sa problema, anumang hindi pa nalulutas na alitan, at sa legal na naaangkop na panahon ng pagpapanatili o preskripsyon. Binubura o ginagawang hindi makikilala ang data na hindi na kailangan para sa mga layuning iyon.</p><p>Itinatakda ng Apple at GitHub ang pagpapanatili ng mga talaang kinokontrol nila. Gumagamit ng mga makatuwirang pananggalang para sa pakikipagsulatang hawak ng developer; walang paraan ng pag-iimbak o pagpapadala ang makagagarantiya ng ganap na seguridad. Huwag magsama ng mga password, buong detalye ng card, o hindi kailangang dokumento ng pagkakakilanlan sa mensahe ng suporta.</p>"
+        ],
+        [
+          "rights",
+          "8. Iyong mga karapatan sa privacy",
+          "<p>Sa ilalim ng Artikulo 11 ng KVKK, maaari mong itanong kung pinoproseso ang iyong data; humingi ng impormasyon tungkol sa pagproseso, mga layunin, at paggamit nito; alamin ang mga tatanggap sa loob o labas ng bansa; humiling ng pagwawasto, pagbura, o pagsira kapag natutugunan ang mga legal na kondisyon; at hilinging maabisuhan ang mga tatanggap tungkol sa mga pagwawasto o pagbura. Maaari kang tumutol sa masamang resulta na nakabatay lamang sa awtomatikong pagsusuri at humingi ng kabayaran para sa labag sa batas na pagproseso. Hindi gumagawa ang Boxmello ng gayong mga awtomatikong desisyon.</p><p>Maaari ring magbigay ang ibang naaangkop na batas ng mga karapatan sa pag-access, paglipat ng data, paghihigpit, pagtutol, at pagbawi ng pahintulot. Maaari kang magsumbong sa kaukulang awtoridad sa proteksyon ng data. Para sa Türkiye, tingnan ang <a href=\"https://www.kvkk.gov.tr/Icerik/2036/Ilgili-Kisinin-Haklari\">gabay sa mga karapatan sa KVKK</a>.</p><p>Mag-email sa developer mula sa address na ginamit sa iyong pakikipagsulatan, at ipaliwanag ang kahilingan mo. Maaari kaming humingi ng proporsyonal na pagberipika at anumang detalyeng kailangan ng naaangkop na pamamaraan. Sinasagot ang mga kahilingan sa loob ng naaangkop na legal na takdang panahon, kabilang ang hindi lalampas sa 30 araw kapag nalalapat ang KVKK. Ipaliliwanag ang anumang pagbubukod sa pagpapanatiling hinihingi ng batas. Tingnan ang <a href=\"{DATA}\">gabay sa data at pagbura</a>. Hindi maaaring siyasatin o malayuang burahin ng developer ang isang save na nasa iyong device lamang, o burahin ang mga talaang kinokontrol ng Apple o GitHub.</p>"
+        ],
+        [
+          "children",
+          "9. Mga bata at pamilya",
+          "<p>Hindi hinihingi ng laro na magbigay ang mga bata o ibang manlalaro ng account o personal na detalye upang makapaglaro. Hindi namin hinihiling sa mga bata na magpadala ng personal na impormasyon o ginagamit ang kanilang data para sa advertising. Magulang o tagapag-alaga ang dapat mangasiwa sa mga tanong ng bata tungkol sa suporta at pagbili. Kung sa tingin mo ay nagpadala ang isang bata ng personal na impormasyon, makipag-ugnayan sa developer upang masuri at mabura ito kung naaangkop. Sundin ang age rating na ipinapakita sa App Store at ang mga naaangkop na kinakailangan sa pahintulot ng magulang.</p>"
+        ],
+        [
+          "beta",
+          "10. Opsyonal na beta at mga sesyon ng pagsubok sa laro",
+          "<p>Maaaring may opsyonal na mode ng pagsubok sa laro na pinapagana ng mananaliksik ang mga build ng TestFlight o development. Kapag pinagana, nagsusulat ito ng code ng kalahok, mga pangyayari sa laro, oras, at impormasyon ng build sa mga lokal na file. Hindi awtomatikong ina-upload ang mga ito; maaaring sadyang i-export ng nagsasagawa ng eksperimento sa pamamagitan ng menu ng pagbabahagi ng device. Hindi pinapagana ng karaniwang bersyon sa App Store ang mode na ito. Dapat ipaliwanag ng anumang organisadong pag-aaral ang layunin, mga tatanggap, pagpapanatili, at mga pagpipilian sa paglahok bago mangolekta o mag-export ng data ng pag-aaral. May sarili nitong mga tuntunin sa privacy ang serbisyong TestFlight ng Apple.</p>"
+        ],
+        [
+          "changes",
+          "11. Mga pagbabago at pakikipag-ugnayan",
+          "<p>Tinutukoy ng petsa sa itaas ang bersyong ito. Ia-update ang abisong ito kapag nagbago ang mga gawi sa data; dapat magbigay ng anumang karagdagang abiso o pahintulot na hinihingi ng batas bago ang kaugnay na bagong pagproseso. Mga tanong at kahilingan sa privacy: <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>.</p>"
+        ]
+      ]
+    },
+    "terms": {
+      "title": "Mga Tuntunin ng Paggamit",
+      "eyebrow": "PAGLALARO NG BOXMELLO",
+      "lede": "Mga tuntuning partikular sa laro, impormasyon ng pagbili, at direktang link sa Standard EULA ng Apple.",
+      "sections": [
+        [
+          "provider",
+          "1. Provider at saklaw",
+          "<p>Ang Boxmello ay ibinibigay ni <strong>Bayram Baş</strong>, Türkiye. Suporta: <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>. Ipinaliliwanag ng mga tuntuning ito ang paggamit ng laro at mga opsyonal na pagbili. Basahin bago maglaro o bumili. Nananatiling may bisa ang mga karapatan ng mamimili na ipinag-uutos ng naaangkop na batas.</p>"
+        ],
+        [
+          "license",
+          "2. Lisensya ng application",
+          "<div class=\"callout\"><p>Ang lisensya ng application sa App Store ay pinamamahalaan ng <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Standard na Kasunduan sa Lisensya ng End User ng Apple (EULA)</a>, maliban kung tahasang ibinibigay sa App Store ang isang hiwalay na pasadyang EULA. Karagdagang impormasyon tungkol sa laro ang pahinang ito at hindi nito pinapalitan ang Standard EULA ng Apple.</p></div><p>Kung salungat ang mga karagdagang tuntuning ito sa naaangkop na lisensya ng App Store o sa batas na sapilitang nalalapat, ang lisensya o batas na iyon ang mananaig. Protektado ang laro, pagba-brand, mga likhang sining, at iba pang nilalaman ng mga naaangkop na karapatan sa intelektuwal na ari-arian. Nananatiling saklaw ng sarili nilang mga lisensya ang mga materyal ng third party; tingnan ang <a href=\"{LICENSES}\">mga lisensya at pagkilala</a>.</p>"
+        ],
+        [
+          "use",
+          "3. Patas at naaayon sa batas na paggamit",
+          "<p>Gamitin ang laro para sa personal na libangang naaayon sa batas at alinsunod sa naaangkop na lisensya. Huwag pakialaman ang pagberipika ng pagbili, mapanlinlang na kumuha ng mga digital na item, mamahagi ng mga kopyang walang pahintulot, o gamitin ang mga channel ng suporta upang mang-harass ng iba. Hindi inaalis ng mga paghihigpit ang mga karapatang ibinibigay sa iyo ng batas na sapilitang nalalapat o ng naaangkop na open-source na lisensya.</p><p>Sundin ang age rating na ipinapakita sa App Store. Kung hindi ka maaaring legal na sumang-ayon sa mga tuntuning ito o bumili nang mag-isa, isama ang iyong magulang o tagapag-alaga at sundin ang mga kontrol sa pagbili ng Apple.</p>"
+        ],
+        [
+          "purchases",
+          "4. Opsyonal na pagbili sa loob ng app",
+          "<p>Nag-aalok ang kasalukuyang laro ng apat na nauubos na pakete ng barya at ang permanenteng kosmetikong pagbili na Mint na Koreo (Mint Post). Walang subscription. Opsyonal ang mga pagbili; maaaring laruin ang kasalukuyang kampanyang may 120 level nang hindi bumibili ng pakete o kosmetikong item. Maaari ring kumita ng barya sa paglalaro at gamitin ang mga ito para sa mga pantulong sa laro o mga item sa pagawaan.</p><p>Nalalapat ang presyo, currency, pagtrato sa buwis, at pahintulot sa pagbili na ipinapakita ng Apple sa pag-checkout. Maaaring mag-iba ang availability at presyo ayon sa rehiyonal na tindahan. Ang barya at mga kosmetikong item ay mga digital na item sa laro, hindi pera, deposito, o ari-ariang maaaring ilipat. Hindi maaaring ipagpalit o tubusin ang mga ito para sa cash sa pamamagitan ng Boxmello; hindi nito nililimitahan ang anumang karapatan sa refund sa ilalim ng batas.</p>"
+        ],
+        [
+          "saves",
+          "5. Mga lokal na save at pagpapanumbalik ng mga pagbili",
+          "<p>Naka-save sa iyong device ang progreso, mga pantulong, at balanse ng barya. Walang account sa laro, cloud wallet, o sariling pag-sync ng save sa pagitan ng mga device ang Boxmello. Maaaring mawala ang progreso at hindi pa nagagamit na nauubos na balanse kapag binura ang app, nawala ang data nito, o nagpalit ng device. Tumutulong ang mga lokal na kopya para sa pagbawi sa ilang error sa pag-save ngunit nasa parehong device ang mga ito. Hindi garantisadong paraan ng pagbawi ang isang backup ng Apple.</p><p>Sinusuri ng Ibalik ang mga Binili sa Tindahan o Mga Setting ang mga kwalipikadong permanenteng pagbili gaya ng Mint na Koreo (Mint Post) gamit ang Apple Account ng orihinal na pagbili. Hindi nito muling nililikha ang mga paketeng barya na naihatid na, lokal na balanse, o progreso sa mga level. Kung nakabinbin ang bayad o hindi pa tapos ang beripikadong paghahatid, makipag-ugnayan muna sa suporta bago bumili muli o burahin ang app.</p>"
+        ],
+        [
+          "refunds",
+          "6. Mga refund at pagsingil",
+          "<p>Pinoproseso ng Apple ang mga bayad sa App Store. Humiling ng refund sa pamamagitan ng <a href=\"https://reportaproblem.apple.com/\">reportaproblem.apple.com</a>; ipinaliliwanag ng <a href=\"https://support.apple.com/en-us/118223\">mga tagubilin ng Apple</a> ang proseso. Nakabatay ang pagiging kwalipikado sa naaangkop na batas at mga tuntunin ng Apple. Makipag-ugnayan sa suporta ng Boxmello para sa teknikal na problema sa paghahatid.</p><p>Kapag nag-ulat ang Apple ng beripikadong refund o pagbawi ng karapatan, maaaring alisin ang kaugnay na karapatan sa permanenteng kosmetikong item o kaugnay na mga baryang hindi pa nagagastos. Hindi lumilikha ang laro ng negatibong balanse ng barya para sa mga baryang na-refund na nagastos na. Walang anuman dito ang nag-aalis ng mga ipinag-uutos na karapatan sa pagkansela, refund, pagkukumpuni, o iba pang remedyo ng mamimili.</p>"
+        ],
+        [
+          "availability",
+          "7. Mga update at availability",
+          "<p>Kailangan ng Boxmello ng tugmang device at operating system. Gumagana nang offline ang pangunahing laro ng palaisipan; kailangan ng koneksyon para sa mga serbisyo ng App Store at suporta. Maaaring mag-ayos ng mga pagkakamali o magbago ng mga feature ang mga update. Hindi magagarantiya ang patuloy na pagiging tugma sa bawat device o operating system sa hinaharap. Nananatiling saklaw ng naaangkop na lisensya at batas ng mamimili ang mga pagbabagong nakaaapekto sa mga karapatang binayaran.</p><p>Kung may problemang nakaaapekto sa progreso o mga pagbili mo, makipag-ugnayan sa suporta. Hindi nagdaragdag ang mga karagdagang tuntuning ito ng pangkalahatang pagwawaksi ng pananagutan o pinapalitan ang mga probisyon sa warranty at pananagutan ng naaangkop na lisensya. Hindi naaapektuhan ang anumang pananagutang hindi maaaring ibukod ng batas.</p>"
+        ],
+        [
+          "privacy",
+          "8. Privacy",
+          "<p>Ipinaliliwanag ng <a href=\"{PRIVACY}\">Patakaran sa Privacy</a> ang mga lokal na save, serbisyo ng Apple, pakikipagsulatan sa suporta, pagho-host ng website, at iyong mga karapatan. Isa itong abiso para sa transparency; ang paggamit ng laro ay hindi pangkalahatang pahintulot sa opsyonal na pagproseso ng personal na data.</p>"
+        ],
+        [
+          "disputes",
+          "9. Mga tanong, alitan, at pagbabago",
+          "<p>Sumulat sa <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a> para sa anumang tanong o reklamo. Pinamamahalaan ng batas ng Türkiye ang mga karagdagang tuntuning ito hangga’t pinahihintulutan, nang hindi inaalis sa iyo ang mga proteksyong ipinag-uutos ng batas o access sa mga hukumang may hurisdiksyon at mga awtoridad ng mamimili sa lugar kung saan ka nakatira. May sarili nitong mga probisyon sa namamahalang batas ang lisensya ng application.</p><p>Makikita sa petsa sa itaas ang mahahalagang pagbabago at ipaaalam sa iyo ang mga ito kung kinakailangan. Hindi nito retroaktibong inaalis ang mga karapatang natamo na sa ilalim ng batas. Ibinibigay ang mga salin para sa kaginhawahan; lulutasin ang anumang pagkakaiba nang naaayon sa naaangkop na lisensya at batas ng mamimili na sapilitang nalalapat.</p>"
+        ]
+      ]
+    },
+    "data-deletion": {
+      "title": "Iyong data at pagbura",
+      "eyebrow": "IYONG KONTROL",
+      "lede": "Walang Boxmello account. Magkakaiba ang paraan ng pagbura sa save ng device, mensahe ng suporta, at mga talaan ng third party.",
+      "sections": [
+        [
+          "before",
+          "1. Bago magbura",
+          "<div class=\"callout\"><p><strong>Maaaring permanenteng mawala ang progreso at mga baryang hindi pa nagagamit kapag binura ang app.</strong> Kung sinusubukan mong ayusin ang problema, makipag-ugnayan muna sa suporta. Ibinabalik ng Ibalik ang mga Binili ang mga kwalipikadong permanenteng kosmetikong item, hindi ang balanse ng barya o progreso sa palaisipan.</p></div><p>Walang nakalaang button sa laro para sa pagbura ng data o account. Walang kopya sa server ng iyong save ang developer at hindi niya ito maaaring malayuang i-reset o bawiin.</p>"
+        ],
+        [
+          "local",
+          "2. Alisin ang lokal na data ng app",
+          "<ol><li>Buksan sa iPhone o iPad ang <strong>Mga Setting → Pangkalahatan → Storage ng iPhone / Storage ng iPad → Boxmello</strong>.</li><li>Piliin ang <strong>Burahin ang App</strong> at kumpirmahin. Pinananatili ng <strong>I-offload ang App</strong> ang mga dokumento at data, kaya hindi ito ang parehong aksyon.</li><li>Suriin ang iba pang device kung saan naka-install ang Boxmello; maaaring may sariling lokal na save ang bawat device.</li></ol><p>Inaalis nito ang container ng app na Boxmello mula sa device na iyon, kabilang ang mga lokal na save at file para sa pagbawi. Lumilikha ang muling pag-install ng bagong save maliban kung naibalik ng backup o paglipat ng operating system ang naunang data. Hindi nito binubura ang iyong kasaysayan ng pagbili sa App Store.</p>"
+        ],
+        [
+          "backups",
+          "3. Hiwalay na pamahalaan ang mga backup",
+          "<p>Maaaring manatili ang data ng app sa mga backup sa iCloud o computer ayon sa iyong mga setting. Suriin ang Boxmello sa mga setting ng iCloud backup ng device, at alisin o ibukod ang backup data nito kung gusto mo ring burahin ang kopyang iyon. Hiwalay na suriin ang anumang backup sa Mac o PC. Maaaring mag-iba ang mga pangalan ng menu ng Apple depende sa bersyon ng operating system; tingnan ang <a href=\"https://support.apple.com/en-us/108922\">gabay ng Apple sa iCloud storage</a>. Maaaring makaapekto ang pagbura ng backup sa pagbawi ng ibang data, kaya suriin ang pipiliin mo.</p>"
+        ],
+        [
+          "email",
+          "4. Hilinging burahin ang pakikipagsulatan sa suporta",
+          "<p>Mag-email sa <a href=\"mailto:bayrambas255@icloud.com?subject=Boxmello%20privacy%20request\">bayrambas255@icloud.com</a> na may paksang <strong>Kahilingan sa privacy ng Boxmello</strong>. Kung maaari, gamitin ang email address na dati mong ginamit upang makipag-ugnayan sa suporta, at sabihin ang:</p><ul><li>Iyong pangalan at apelyido.</li><li>Ang kahilingan: pagbura, pag-access, pagwawasto, o ibang karapatan sa privacy.</li><li>Ang pakikipagsulatan o tinatayang mga petsang nauugnay rito.</li><li>Address para sa tugon kung iba sa address na pinagmulan.</li></ul><p>Huwag magpadala ng password, buong numero ng payment card, o dokumento ng pagkakakilanlan nang hindi hinihingi. Maaaring humingi ng makatuwirang pagberipika o mga detalyeng kailangan sa naaangkop na legal na pamamaraan. Buburahin o gagawing hindi makikilala namin ang data na hawak ng developer kapag natutugunan ang mga legal na kondisyon, at ipaliliwanag ang anumang data na kailangang panatilihin para sa legal na obligasyon o paghahabol. Sinasagot ang mga kahilingan sa loob ng legal na naaangkop na takdang panahon, kabilang ang pinakamatagal na 30 araw kapag nalalapat ang KVKK.</p><p>Maaaring gamitin ng mga simpleng kahilingan sa suporta at pagbura ang paraang nasa itaas. Ang pormal na aplikasyon sa ilalim ng KVKK ay dapat nasa wikang Turkish at ipinadala mula sa email address na naibigay na at nairehistro sa developer, o gumamit ng ibang paraang pinapahintulutan ng naaangkop na opisyal na pabatid. Hinihingi ng Artikulo 5 na kasama sa mga pormal na aplikasyon ang mga itinakdang detalye, gaya ng pangalan, kahilingan, address para sa mga abiso, at kaugnay na impormasyon ng pagkakakilanlan. Tingnan ang <a href=\"https://www.kvkk.gov.tr/Icerik/6938/Kurumumuza-Yapilan-Sikayetlerin-Usul-Sartlarina-Iliskin-Kamuoyu-Duyurusu\">opisyal na pamamaraan ng aplikasyon</a>. Huwag magpadala ng kopya ng dokumento ng pagkakakilanlan nang hindi hinihingi.</p>"
+        ],
+        [
+          "other",
+          "5. Mga talaan ng Apple at GitHub",
+          "<p>Hindi binubura ng pagbura ng Boxmello o pag-email sa developer nito ang kasaysayan ng pagsingil ng Apple, data ng Apple Account, o mga log ng seguridad ng pagho-host ng GitHub. Para sa mga talaang kinokontrol nila, gamitin ang <a href=\"https://privacy.apple.com/\">mga tool ng Apple para sa Data at Privacy</a> o mga paraan ng pakikipag-ugnayan sa <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">Pahayag sa Privacy ng GitHub</a>. Dapat ding pamahalaan ang anumang backup na kopya ng Apple sa pamamagitan ng iyong mga setting sa Apple.</p><p>Hindi kusang nagkakansela ng pagbili, humihiling ng refund, o bumabawi sa wastong karapatan sa permanenteng kosmetikong item ang pagbura ng lokal na save. Maaaring gawing available muli ng Apple ang karapatang iyon sa pamamagitan ng Ibalik ang mga Binili.</p>"
+        ],
+        [
+          "rights",
+          "6. Higit pa tungkol sa iyong mga karapatan",
+          "<p>Ipinaliliwanag ng <a href=\"{PRIVACY}#rights\">Patakaran sa Privacy</a> ang mga layunin ng pagproseso, tatanggap, legal na batayan, pagpapanatili, at iyong mga karapatan sa privacy sa ilalim ng KVKK at iba pang naaangkop na batas. Maaari kang makipag-ugnayan sa kaukulang awtoridad sa proteksyon ng data alinsunod sa naaangkop na pamamaraan ng reklamo.</p>"
+        ]
+      ]
+    },
+    "licenses": {
+      "title": "Mga Lisensya at Pagkilala",
+      "eyebrow": "PAGKILALA",
+      "lede": "Ang mga font na tumutulong magbigay ng karakter sa Boxmello at ang lisensyang nalalapat sa app.",
+      "sections": [
+        [
+          "app",
+          "1. Application at nilalaman",
+          "<p>Ang Boxmello ay binuo ni Bayram Baş. Lisensyado ang application sa ilalim ng <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Standard EULA ng Apple</a>, na saklaw ng anumang naaangkop na lisensya ng App Store na ibinibigay kasama nito. Makikita ang impormasyong partikular sa laro sa <a href=\"{TERMS}\">Mga Tuntunin ng Paggamit</a>. Nananatili sa kani-kanilang may-ari ang mga karapatan at lisensya ng third party sa ibaba.</p>"
+        ],
+        [
+          "fonts",
+          "2. Pagkilala sa mga bukas na font",
+          "<p>Kasama sa laro ang <strong>Baloo 2</strong> at <strong>Nunito</strong> sa ilalim ng SIL Open Font License, Bersyon 1.1. Gumagamit ang website ng suportang ito ng mga font ng system; hindi ito naglo-load ng mga font mula sa panlabas na serbisyo.</p><ul><li>Baloo 2 — Copyright 2019 The Baloo 2 Project Authors. <a href=\"https://github.com/EkType/Baloo2\">Proyekto</a> · <a href=\"{ASSETS}/OFL-Baloo2.txt\">Buong abiso ng lisensya</a>.</li><li>Nunito — Copyright 2014 The Nunito Project Authors. <a href=\"https://github.com/googlefonts/nunito\">Proyekto</a> · <a href=\"{ASSETS}/OFL-Nunito.txt\">Buong abiso ng lisensya</a>.</li></ul><p>Muling inilathala ang mga orihinal na abiso ng copyright at lisensya sa mga naka-link na file.</p>"
+        ],
+        [
+          "contact",
+          "3. Mga tanong tungkol sa mga karapatan",
+          "<p>Para sa tanong tungkol sa pagkilala o naiulat na usapin sa karapatan, makipag-ugnayan sa <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a> at tukuyin ang materyal at iyong alalahanin.</p>"
+        ]
+      ]
+    }
+  }
+}

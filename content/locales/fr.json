@@ -1,0 +1,273 @@
+{
+  "nav": [
+    "Assistance",
+    "Confidentialité",
+    "Conditions",
+    "Données et suppression",
+    "Licences"
+  ],
+  "skip": "Aller au contenu",
+  "contents": "Sur cette page",
+  "back": "Retour à l’assistance",
+  "updated": "Entrée en vigueur et dernière mise à jour : 14 octobre 2026",
+  "footer": "Assistance et informations juridiques de Boxmello.",
+  "footer_note": "Aucune publicité ni analyse des visiteurs n’a été ajoutée à ce site. La confidentialité liée à l’hébergement est expliquée dans notre Politique de confidentialité.",
+  "home": {
+    "title": "Un coup de main avec Boxmello.",
+    "eyebrow": "BOXMELLO · ASSISTANCE",
+    "lede": "Une question sur votre casse-tête, un achat ou vos données ? Trouvez la réponse ici ou écrivez directement au développeur.",
+    "contact_button": "Écrire à l’assistance",
+    "faq_button": "Consulter les questions fréquentes",
+    "facts": [
+      "Aucun compte de jeu",
+      "Progression enregistrée sur votre appareil",
+      "Achats intégrés facultatifs"
+    ],
+    "documents_title": "Vos informations, expliquées clairement.",
+    "documents_intro": "Confidentialité, achats et conditions applicables lorsque vous jouez.",
+    "cards": [
+      [
+        "privacy",
+        "01 · VOTRE CONFIDENTIALITÉ",
+        "Politique de confidentialité",
+        "Ce qui reste sur votre appareil, ce qu’Apple gère et ce qui se passe lorsque vous contactez l’assistance."
+      ],
+      [
+        "terms",
+        "02 · JOUER À BOXMELLO",
+        "Conditions d’utilisation",
+        "Règles du jeu, achats facultatifs, remboursements et EULA standard d’Apple."
+      ],
+      [
+        "data-deletion",
+        "03 · VOTRE CONTRÔLE",
+        "Données et suppression",
+        "Supprimez les sauvegardes locales, gérez les sauvegardes de secours ou demandez la suppression des échanges avec l’assistance."
+      ],
+      [
+        "licenses",
+        "04 · REMERCIEMENTS",
+        "Licences et crédits",
+        "Crédits des polices tierces et textes complets de leurs licences libres."
+      ]
+    ],
+    "contact_title": "Contactez-nous.",
+    "contact_copy": "Boxmello est développé par Bayram Baş. Pour obtenir de l’aide, signaler un bug, faire un retour sur l’accessibilité ou adresser une demande relative à la confidentialité, écrivez à :",
+    "contact_hint": "Précisez le modèle de votre appareil, la version d’iOS, la version de Boxmello (dans Réglages), le numéro du niveau si pertinent et ce qui s’est passé. Une capture d’écran peut être utile ; retirez d’abord les informations personnelles.",
+    "contact_safety": "N’envoyez jamais le mot de passe de votre compte Apple, les coordonnées de votre carte de paiement ou des documents d’identité. Si des précisions sur un achat sont nécessaires, nous demanderons le minimum d’informations.",
+    "faq_title": "Questions fréquentes",
+    "faqs": [
+      [
+        "Où ma progression est-elle enregistrée ?",
+        "<p>Sur votre appareil, avec votre solde de pièces, vos aides, vos décorations et vos réglages. Boxmello ne possède ni compte de jeu ni synchronisation cloud propre. Les sauvegardes de l’appareil peuvent contenir des données de l’app selon vos réglages Apple, mais elles ne constituent pas un service de récupération garanti de Boxmello.</p><p><strong>Contactez l’assistance avant de supprimer ou de réinstaller l’app pour résoudre un problème.</strong> Cela peut entraîner la perte de votre progression et de vos pièces inutilisées.</p>"
+      ],
+      [
+        "Comment restaurer Courrier menthe (Mint Post) ?",
+        "<p>Utilisez le compte Apple ayant servi à l’achat initial, connectez-vous à Internet et choisissez <strong>Restaurer les achats</strong> dans la Boutique ou dans Réglages du jeu. Cette action vérifie les achats cosmétiques permanents admissibles, dont Courrier menthe (Mint Post). Elle ne reconstitue pas votre progression dans les niveaux ni votre solde de pièces consommables.</p>"
+      ],
+      [
+        "Un achat est en attente ou n’apparaît pas. Que faire ?",
+        "<p>Ne payez pas à nouveau pour le même achat manquant. Vérifiez votre connexion et si Apple attend un paiement ou une approbation familiale. Rouvrez Boxmello afin que le jeu puisse réessayer les livraisons vérifiées. Pour Courrier menthe (Mint Post), essayez aussi Restaurer les achats. Si le problème persiste, écrivez au développeur en indiquant le nom du produit, l’heure approximative de l’achat, la version de l’app et le message affiché. Masquez les informations du reçu sans rapport avec le problème.</p>"
+      ],
+      [
+        "Puis-je restaurer des packs de pièces ou transférer ma progression sur un autre appareil ?",
+        "<p>Les packs de pièces sont des achats consommables. Restaurer les achats ne recrée pas les pièces déjà livrées, les objets dépensés ni la progression locale. Il n’existe ni portefeuille associé à un compte ni synchronisation des sauvegardes entre appareils. Changer d’appareil ou supprimer l’app peut entraîner la perte de vos pièces restantes et de votre progression.</p>"
+      ],
+      [
+        "Comment fonctionnent les remboursements ?",
+        "<p>Apple gère les paiements et les demandes de remboursement des achats effectués sur l’App Store. Consultez <a href=\"https://reportaproblem.apple.com/\">le service Signaler un problème d’Apple</a> ou lisez <a href=\"https://support.apple.com/en-us/118223\">les instructions de remboursement d’Apple</a>. L’admissibilité dépend de l’achat et du droit applicable. Un remboursement vérifié peut supprimer le droit à l’élément cosmétique associé ou les pièces concernées qui n’ont pas été dépensées.</p>"
+      ],
+      [
+        "Boxmello nécessite-t-il une connexion Internet ?",
+        "<p>Le jeu de casse-tête normal utilise du contenu inclus dans l’app et peut fonctionner hors ligne. Le chargement des produits de l’App Store, les achats ou la restauration d’achats permanents nécessitent l’accès aux services d’Apple. L’assistance par e-mail et ce site nécessitent également une connexion.</p>"
+      ],
+      [
+        "Le jeu se bloque, se ferme ou n’enregistre pas. Que puis-je essayer ?",
+        "<p>Fermez puis rouvrez Boxmello, vérifiez l’espace de stockage disponible sur l’appareil et installez les mises à jour disponibles de l’app et d’iOS. Si une erreur de sauvegarde apparaît, conservez l’app installée et envoyez le message exact à l’assistance. Évitez de multiplier les achats ou de supprimer l’app pendant notre investigation.</p>"
+      ],
+      [
+        "Comment changer de langue ou modifier les options d’accessibilité ?",
+        "<p>Ouvrez Réglages dans le jeu pour la langue, la musique, le son, Vibrations, Réduire les animations et Contours renforcés. Si le texte, les commandes ou VoiceOver sont difficiles à utiliser, envoyez à l’assistance le modèle de votre appareil et une description de l’écran.</p>"
+      ],
+      [
+        "Comment supprimer mes données ?",
+        "<p>Il n’existe aucun compte Boxmello à supprimer. Les données locales de l’app, les sauvegardes de l’appareil, les e-mails de l’assistance et les relevés d’achats d’Apple sont gérés séparément. Suivez le <a href=\"{DATA}\">guide des données et de leur suppression</a> pour chaque catégorie.</p>"
+      ]
+    ]
+  },
+  "pages": {
+    "privacy": {
+      "title": "Politique de confidentialité",
+      "eyebrow": "VOTRE CONFIDENTIALITÉ",
+      "lede": "Une explication pratique des sauvegardes locales de Boxmello, des services d’Apple, des e-mails de l’assistance et de ce site. Ce texte constitue également notre information au titre de la loi turque sur la protection des données personnelles (KVKK).",
+      "sections": [
+        [
+          "controller",
+          "1. Qui est responsable ?",
+          "<p>Boxmello est fourni par <strong>Bayram Baş</strong> en Turquie. Pour les données personnelles traitées par le développeur, Bayram Baş est le responsable du traitement. Contact : <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>.</p><p>Cette politique couvre le jeu iOS/iPadOS actuel, ce site d’assistance et la correspondance avec le développeur. Apple et GitHub traitent également des informations pour leurs propres services conformément à leurs propres avis de confidentialité.</p>"
+        ],
+        [
+          "game-data",
+          "2. Données stockées dans le jeu",
+          "<p>L’utilisation normale du jeu de l’App Store n’envoie pas votre sauvegarde de jeu à un serveur du développeur. Boxmello ne possède ni compte de jeu, ni SDK publicitaire, ni SDK d’analyse tiers, ni suivi entre applications. Il ne demande pas l’accès à votre localisation, à vos contacts, à votre appareil photo ou à votre microphone.</p><p>L’app stocke un identifiant de profil local généré aléatoirement, la progression dans les niveaux, les scores et les étoiles, l’état du casse-tête en cours, les soldes de pièces et d’aides, les décorations, les récompenses quotidiennes, l’état du tutoriel et les réglages. Elle stocke également des données de vérification des achats, notamment les identifiants de produits et de transactions, les dates de traitement, l’état des remboursements et les droits liés aux achats permanents. Elles permettent à l’app d’enregistrer votre partie, d’éviter les livraisons d’achat en double et d’appliquer les modifications d’achat vérifiées.</p><p>La sauvegarde et sa copie de récupération se trouvent sur le même appareil. Elles ne constituent pas une sauvegarde cloud indépendante. Les fonctions de sauvegarde ou de migration d’appareil d’Apple peuvent inclure ces données selon vos réglages. Le développeur n’a pas d’accès à distance à votre sauvegarde locale.</p><p>Les données de sauvegarde locale et les informations StoreKit sont traitées électroniquement et automatiquement sur l’appareil pour fournir le jeu et vérifier les achats, sur le fondement de l’exécution du contrat prévu à l’article 5(2)(c) de la KVKK.</p>"
+        ],
+        [
+          "apple",
+          "3. Achats et informations fournies par Apple",
+          "<p>Apple gère les paiements de l’App Store via StoreKit. Boxmello reçoit sur votre appareil des informations vérifiées sur les transactions et les droits afin de livrer les achats et de gérer leur restauration ou leur remboursement. Le développeur ne reçoit ni les coordonnées de votre carte de paiement ni le mot de passe de votre compte Apple.</p><p>Apple peut mettre à la disposition du développeur des récapitulatifs de ventes et des rapports de performances ou de plantage de l’app. Le partage des données d’utilisation et de plantage dépend des services d’Apple et de vos choix sur l’appareil ; il est distinct d’un SDK d’analyse dans Boxmello. Consultez <a href=\"https://www.apple.com/legal/privacy/data/en/app-analytics/\">Analyse des apps et confidentialité</a> et <a href=\"https://www.apple.com/legal/privacy/en-ww/\">la Politique de confidentialité d’Apple</a>. Vous pouvez consulter les options de partage dans Réglages d’iOS → Confidentialité et sécurité → Analyse et améliorations.</p><p>Les rapports de diagnostic détenus par le développeur servent à identifier et à corriger les défauts, sur le fondement des intérêts légitimes prévu à l’article 5(2)(f) de la KVKK, mis en balance avec vos droits. Les copies détenues par le développeur ne sont conservées que le temps nécessaire pour étudier et résoudre le problème ou satisfaire une obligation légale ou une réclamation, puis sont supprimées ou anonymisées. Apple contrôle la conservation des rapports dans ses propres services.</p>"
+        ],
+        [
+          "support",
+          "4. Correspondance avec l’assistance et fondements juridiques",
+          "<p>Si vous écrivez au développeur, votre adresse e-mail, le nom de l’expéditeur, votre message et les éventuelles pièces jointes ou précisions techniques que vous choisissez de fournir sont reçus via iCloud Mail. Une adresse e-mail et suffisamment d’informations sur votre question sont nécessaires pour vous répondre par e-mail ; vous pouvez jouer sans nous contacter. Évitez d’envoyer des informations personnelles sensibles.</p><p>Les données d’assistance servent à répondre à votre demande, à étudier un problème, à vous aider pour les achats, à corriger le problème signalé ou à traiter une demande relative à la confidentialité. Elles ne sont utilisées ni pour la publicité, ni pour des listes de diffusion, ni pour la vente de données personnelles, ni pour des décisions automatisées vous concernant.</p><div class=\"table-wrap\"><table><caption>Finalités et fondements juridiques des données d’assistance traitées par le développeur</caption><thead><tr><th scope=\"col\">Finalité</th><th scope=\"col\">Fondement dans la KVKK</th></tr></thead><tbody><tr><td>Répondre aux demandes d’assistance sur le jeu ou les achats nécessaires à la fourniture du jeu</td><td>Article 5(2)(c) : exécution d’un contrat</td></tr><tr><td>Étudier les défauts et protéger les échanges avec l’assistance contre les abus, dans le respect de vos droits</td><td>Article 5(2)(f) : intérêts légitimes</td></tr><tr><td>Répondre aux demandes légales de données ou aux obligations de divulgation</td><td>Article 5(2)(ç) : obligations légales</td></tr><tr><td>Résoudre les litiges ou constater, exercer ou défendre un droit en justice</td><td>Article 5(2)(e) : protection des droits</td></tr></tbody></table></div><p>Lorsqu’une autre loi applicable en matière de confidentialité exige un fondement différent, le fondement correspondant lié au contrat, à l’obligation légale ou à l’intérêt légitime s’applique. Si une activité facultative distincte nécessite un consentement, celui-ci doit être demandé séparément ; la lecture de cette politique ne vaut pas, en elle-même, consentement.</p>"
+        ],
+        [
+          "website",
+          "5. Hébergement du site et cookies",
+          "<p>Ce site d’assistance statique ne comporte aucun cookie, stockage local, publicité, formulaire de contact, widget social intégré ou outil d’analyse des visiteurs ajouté par le développeur. Les images et les styles sont servis avec le site ; aucun service tiers de polices n’est utilisé.</p><p>Le site est hébergé par GitHub Pages. GitHub indique enregistrer les adresses IP des visiteurs à des fins de sécurité, y compris lors de visites sans connexion à un compte. GitHub contrôle ces journaux d’hébergement ; le développeur ne reçoit pas de journal individuel des visiteurs par l’intermédiaire de ce site. Consultez <a href=\"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection\">la collecte de données de GitHub Pages</a> et <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">la Déclaration de confidentialité de GitHub</a>. Suivre un lien externe vous conduit au service de ce fournisseur.</p>"
+        ],
+        [
+          "sharing",
+          "6. Destinataires et traitement hors de votre pays",
+          "<p>Apple fournit les services de paiement, de rapports de plateforme, de sauvegarde de l’appareil lorsqu’elle est activée et d’iCloud Mail. GitHub fournit l’hébergement et la sécurité du site. La correspondance avec l’assistance est traitée par Bayram Baş et les services de messagerie utilisés pour son acheminement. Des informations peuvent également être divulguées aux autorités compétentes lorsque la loi l’exige, ou à des conseillers professionnels si cela est nécessaire à une réclamation juridique, dans la limite du nécessaire.</p><p>Les messages d’assistance sont reçus et stockés via iCloud Mail d’Apple ; le contenu des messages, les informations de l’expéditeur et les pièces jointes peuvent être traités sur des infrastructures situées hors de Turquie ou de votre pays de résidence. GitHub traite également les journaux IP des visiteurs sur son infrastructure internationale pour servir et sécuriser ce site. Les avis de confidentialité d’Apple et de GitHub expliquent ces services. Visiter ce site ou écrire à l’assistance n’est pas considéré comme un consentement à un transfert international. Les questions relatives à un transfert précis de données détenues par le développeur peuvent être envoyées au contact indiqué ci-dessus.</p>"
+        ],
+        [
+          "retention",
+          "7. Conservation et sécurité",
+          "<p>Les sauvegardes locales restent sur votre appareil jusqu’à la suppression des données de l’app ; les copies de sauvegarde de l’appareil ou du cloud sont gérées séparément. La correspondance avec l’assistance n’est conservée que dans la mesure nécessaire pour résoudre la demande et assurer son suivi, satisfaire une obligation légale applicable ou constater, exercer ou défendre un droit en justice. La durée pertinente dépend du problème, de tout litige non résolu et du délai de conservation ou de prescription légalement applicable. Les données qui ne sont plus nécessaires à ces fins sont supprimées ou anonymisées.</p><p>Apple et GitHub déterminent les durées de conservation des dossiers qu’ils contrôlent. Des mesures de protection raisonnables sont utilisées pour la correspondance détenue par le développeur ; aucune méthode de stockage ou de transmission ne peut garantir une sécurité totale. N’incluez pas de mots de passe, de coordonnées complètes de carte ou de documents d’identité inutiles dans un message d’assistance.</p>"
+        ],
+        [
+          "rights",
+          "8. Vos droits en matière de confidentialité",
+          "<p>Au titre de l’article 11 de la KVKK, vous pouvez demander si vos données sont traitées ; obtenir des informations sur leur traitement, ses finalités et leur utilisation ; connaître les destinataires nationaux ou étrangers ; demander leur rectification, suppression ou destruction lorsque les conditions légales sont remplies ; et demander que les destinataires soient informés de ces rectifications ou suppressions. Vous pouvez vous opposer à un résultat défavorable fondé exclusivement sur une analyse automatisée et demander réparation pour un traitement illicite. Boxmello ne prend pas de telles décisions automatisées.</p><p>D’autres lois applicables peuvent également accorder des droits d’accès, de portabilité, de limitation, d’opposition et de retrait du consentement. Vous pouvez déposer une réclamation auprès de l’autorité de protection des données compétente. Pour la Turquie, consultez <a href=\"https://www.kvkk.gov.tr/Icerik/2036/Ilgili-Kisinin-Haklari\">les indications sur les droits au titre de la KVKK</a>.</p><p>Écrivez au développeur depuis l’adresse utilisée dans votre correspondance, en expliquant votre demande. Nous pouvons demander une vérification proportionnée et toute précision requise par la procédure applicable. Les demandes reçoivent une réponse dans le délai légal applicable, notamment dans un délai maximal de 30 jours lorsque la KVKK s’applique. Toute exception de conservation imposée par la loi sera expliquée. Consultez le <a href=\"{DATA}\">guide des données et de leur suppression</a>. Le développeur ne peut ni consulter ni effacer à distance une sauvegarde détenue uniquement sur votre appareil, ni supprimer les dossiers contrôlés par Apple ou GitHub.</p>"
+        ],
+        [
+          "children",
+          "9. Enfants et familles",
+          "<p>Le jeu n’exige pas des enfants ou des autres joueurs qu’ils créent un compte ou fournissent des informations personnelles pour jouer. Nous ne demandons pas aux enfants d’envoyer des informations personnelles et n’utilisons pas leurs données à des fins publicitaires. Un parent ou un représentant légal devrait gérer les questions d’assistance et d’achat pour un enfant. Si vous pensez qu’un enfant a envoyé des informations personnelles, contactez le développeur afin qu’elles soient examinées et supprimées si nécessaire. Respectez la classification d’âge affichée sur l’App Store et les exigences applicables en matière d’autorisation parentale.</p>"
+        ],
+        [
+          "beta",
+          "10. Sessions bêta et tests de jeu facultatifs",
+          "<p>Les versions TestFlight ou de développement peuvent contenir un mode facultatif de test de jeu activé par un chercheur. Lorsqu’il est activé, il écrit un code de participant, des événements de jeu, des durées et des informations de version dans des fichiers locaux. Ceux-ci ne sont pas envoyés automatiquement ; la personne qui mène l’expérience peut les exporter délibérément via le menu de partage de l’appareil. La version normale de l’App Store n’active pas ce mode. Toute étude organisée doit expliquer sa finalité, ses destinataires, sa durée de conservation et les choix de participation avant de collecter ou d’exporter les données de l’étude. Le service TestFlight d’Apple dispose de ses propres conditions de confidentialité.</p>"
+        ],
+        [
+          "changes",
+          "11. Modifications et contact",
+          "<p>La date ci-dessus identifie cette version. Cet avis sera mis à jour lorsque les pratiques relatives aux données changeront ; toute information ou tout consentement supplémentaire exigé par la loi doit être fourni avant le nouveau traitement concerné. Questions et demandes relatives à la confidentialité : <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>.</p>"
+        ]
+      ]
+    },
+    "terms": {
+      "title": "Conditions d’utilisation",
+      "eyebrow": "JOUER À BOXMELLO",
+      "lede": "Les conditions propres au jeu, les informations sur les achats et un lien direct vers l’EULA standard d’Apple.",
+      "sections": [
+        [
+          "provider",
+          "1. Fournisseur et champ d’application",
+          "<p>Boxmello est fourni par <strong>Bayram Baş</strong>, en Turquie. Assistance : <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>. Ces conditions expliquent l’utilisation du jeu et les achats facultatifs. Lisez-les avant de jouer ou d’effectuer un achat. Les droits impératifs applicables aux consommateurs demeurent en vigueur.</p>"
+        ],
+        [
+          "license",
+          "2. Licence de l’application",
+          "<div class=\"callout\"><p>La licence de l’application de l’App Store est régie par le <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Contrat de licence utilisateur final standard d’Apple (EULA)</a>, sauf si un EULA personnalisé distinct est expressément fourni via l’App Store. Cette page contient des informations complémentaires sur le jeu et ne remplace pas l’EULA standard d’Apple.</p></div><p>Si ces conditions complémentaires entrent en conflit avec la licence applicable de l’App Store ou une règle de droit impérative, cette licence ou cette règle prévaut. Le jeu, la marque, les illustrations et les autres contenus sont protégés par les droits de propriété intellectuelle applicables. Les éléments tiers restent soumis à leurs propres licences ; consultez les <a href=\"{LICENSES}\">licences et crédits</a>.</p>"
+        ],
+        [
+          "use",
+          "3. Utilisation loyale et licite",
+          "<p>Utilisez le jeu à des fins de divertissement personnel licite et conformément à la licence applicable. Ne modifiez pas la vérification des achats, n’obtenez pas frauduleusement des objets numériques, ne distribuez pas de copies non autorisées et n’utilisez pas les canaux d’assistance pour harceler autrui. Ces restrictions ne suppriment pas les droits que vous confèrent le droit impératif ou une licence open source applicable.</p><p>Respectez la classification d’âge indiquée sur l’App Store. Si vous ne pouvez pas légalement accepter ces conditions ou effectuer un achat seul, impliquez votre parent ou représentant légal et respectez les contrôles d’achat d’Apple.</p>"
+        ],
+        [
+          "purchases",
+          "4. Achats intégrés facultatifs",
+          "<p>Le jeu actuel propose quatre packs de pièces consommables et l’achat cosmétique permanent Courrier menthe (Mint Post). Il n’y a aucun abonnement. Les achats sont facultatifs ; la campagne actuelle de 120 niveaux peut être jouée sans acheter de pack ni d’élément cosmétique. Les pièces peuvent aussi être gagnées en jouant et utilisées pour des aides dans le jeu ou des objets de l’atelier.</p><p>Le prix, la devise, le traitement fiscal et l’autorisation d’achat affichés par Apple lors du paiement s’appliquent. La disponibilité et les prix peuvent varier selon la boutique régionale. Les pièces et les éléments cosmétiques sont des objets de jeu numériques, et non de l’argent, des dépôts ou des biens transférables. Ils ne peuvent être échangés ni convertis en espèces via Boxmello ; cela ne limite aucun droit légal au remboursement.</p>"
+        ],
+        [
+          "saves",
+          "5. Sauvegardes locales et restauration des achats",
+          "<p>La progression, les aides et les soldes de pièces sont enregistrés sur votre appareil. Boxmello ne possède ni compte de jeu, ni portefeuille cloud, ni synchronisation propre des sauvegardes entre appareils. Supprimer l’app, perdre ses données ou changer d’appareil peut entraîner la perte de la progression et des soldes de consommables inutilisés. Les copies de récupération locales aident à résoudre certains défauts de sauvegarde, mais se trouvent sur le même appareil. Une sauvegarde Apple n’est pas une méthode de récupération garantie.</p><p>Restaurer les achats dans la Boutique ou dans Réglages vérifie les achats permanents admissibles, comme Courrier menthe (Mint Post), au moyen du compte Apple ayant servi à l’achat initial. Cette action ne recrée ni les packs de pièces déjà livrés, ni les soldes locaux, ni la progression dans les niveaux. Si un paiement est en attente ou qu’une livraison vérifiée n’est pas terminée, contactez l’assistance avant d’acheter à nouveau ou de supprimer l’app.</p>"
+        ],
+        [
+          "refunds",
+          "6. Remboursements et facturation",
+          "<p>Apple traite les paiements de l’App Store. Demandez un remboursement via <a href=\"https://reportaproblem.apple.com/\">reportaproblem.apple.com</a> ; <a href=\"https://support.apple.com/en-us/118223\">les instructions d’Apple</a> expliquent la procédure. L’admissibilité suit le droit applicable et les conditions d’Apple. Contactez l’assistance Boxmello pour un problème technique de livraison.</p><p>Lorsqu’Apple signale un remboursement ou une révocation vérifiés, le droit à l’élément cosmétique permanent concerné ou les pièces concernées non dépensées peuvent être retirés. Le jeu ne crée pas de solde de pièces négatif pour les pièces remboursées déjà dépensées. Rien ici n’exclut les droits impératifs de rétractation, de remboursement, de réparation ou les autres recours des consommateurs.</p>"
+        ],
+        [
+          "availability",
+          "7. Mises à jour et disponibilité",
+          "<p>Boxmello nécessite un appareil et un système d’exploitation compatibles. Le jeu de casse-tête de base fonctionne hors ligne ; les services de l’App Store et l’assistance nécessitent une connexion. Les mises à jour peuvent corriger des défauts ou modifier des fonctionnalités. La compatibilité continue avec tout appareil ou système d’exploitation futur ne peut être garantie. Les modifications affectant des droits payants restent soumises à la licence applicable et au droit de la consommation.</p><p>Si un problème affecte votre progression ou vos achats, contactez l’assistance. Ces conditions complémentaires n’ajoutent pas de clause générale d’exonération de responsabilité et ne remplacent pas les dispositions de garantie et de responsabilité de la licence applicable. Toute responsabilité qui ne peut légalement être exclue reste inchangée.</p>"
+        ],
+        [
+          "privacy",
+          "8. Confidentialité",
+          "<p>La <a href=\"{PRIVACY}\">Politique de confidentialité</a> explique les sauvegardes locales, les services d’Apple, la correspondance avec l’assistance, l’hébergement du site et vos droits. C’est un avis de transparence ; l’utilisation du jeu ne vaut pas consentement général au traitement facultatif de données personnelles.</p>"
+        ],
+        [
+          "disputes",
+          "9. Questions, litiges et modifications",
+          "<p>Écrivez à <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a> pour toute question ou réclamation. Ces conditions complémentaires sont régies par le droit turc dans la mesure permise, sans vous priver des protections impératives ni de l’accès aux tribunaux compétents et aux autorités de protection des consommateurs de votre lieu de résidence. La licence de l’application comporte ses propres dispositions relatives au droit applicable.</p><p>Les modifications importantes seront reflétées dans la date ci-dessus et portées à votre attention lorsque cela est requis. Elles ne suppriment pas rétroactivement les droits légaux acquis. Les traductions sont fournies par commodité ; toute divergence sera résolue conformément à la licence applicable et au droit impératif de la consommation.</p>"
+        ]
+      ]
+    },
+    "data-deletion": {
+      "title": "Vos données et leur suppression",
+      "eyebrow": "VOTRE CONTRÔLE",
+      "lede": "Il n’existe aucun compte Boxmello. La sauvegarde de votre appareil, les messages d’assistance et les dossiers de tiers ont chacun une procédure de suppression différente.",
+      "sections": [
+        [
+          "before",
+          "1. Avant de supprimer",
+          "<div class=\"callout\"><p><strong>Supprimer l’app peut entraîner la perte définitive de la progression et des pièces inutilisées.</strong> Si vous cherchez à résoudre un problème, contactez d’abord l’assistance. Restaurer les achats restaure les éléments cosmétiques permanents admissibles, et non votre solde de pièces ou votre progression dans les casse-têtes.</p></div><p>Le jeu ne comporte pas de bouton dédié à l’effacement des données ou à la suppression d’un compte. Le développeur ne possède aucune copie de votre sauvegarde sur un serveur et ne peut pas la réinitialiser ou la récupérer à distance.</p>"
+        ],
+        [
+          "local",
+          "2. Supprimer les données locales de l’app",
+          "<ol><li>Sur iPhone ou iPad, ouvrez <strong>Réglages → Général → Stockage iPhone / Stockage iPad → Boxmello</strong>.</li><li>Choisissez <strong>Supprimer l’app</strong> et confirmez. <strong>Décharger l’app</strong> conserve les documents et les données ; ce n’est donc pas la même action.</li><li>Vérifiez les autres appareils sur lesquels Boxmello est installé ; chaque appareil peut avoir sa propre sauvegarde locale.</li></ol><p>Cela supprime le conteneur de l’app Boxmello de cet appareil, y compris ses sauvegardes locales et ses fichiers de récupération. La réinstallation crée une nouvelle sauvegarde, sauf si une sauvegarde ou une migration du système d’exploitation restaure des données antérieures. Cela n’efface pas votre historique d’achats de l’App Store.</p>"
+        ],
+        [
+          "backups",
+          "3. Gérer les sauvegardes séparément",
+          "<p>Les données de l’app peuvent rester dans des sauvegardes iCloud ou sur ordinateur selon vos réglages. Vérifiez Boxmello dans les réglages de sauvegarde iCloud de votre appareil, puis supprimez ou excluez ses données de sauvegarde si vous souhaitez également effacer cette copie. Vérifiez séparément les éventuelles sauvegardes Mac ou PC. Les intitulés des menus d’Apple peuvent varier selon la version du système d’exploitation ; consultez <a href=\"https://support.apple.com/en-us/108922\">le guide du stockage iCloud d’Apple</a>. Supprimer une sauvegarde peut affecter la récupération d’autres données ; vérifiez donc votre sélection.</p>"
+        ],
+        [
+          "email",
+          "4. Demander la suppression des échanges avec l’assistance",
+          "<p>Écrivez à <a href=\"mailto:bayrambas255@icloud.com?subject=Boxmello%20privacy%20request\">bayrambas255@icloud.com</a> avec pour objet <strong>Demande de confidentialité Boxmello</strong>. Utilisez si possible l’adresse e-mail ayant déjà servi à contacter l’assistance et indiquez :</p><ul><li>Votre prénom et votre nom.</li><li>La demande : suppression, accès, rectification ou autre droit relatif à la confidentialité.</li><li>La correspondance ou les dates approximatives concernées.</li><li>Une adresse de réponse si elle diffère de l’adresse d’envoi.</li></ul><p>N’envoyez pas spontanément de mot de passe, de numéro complet de carte de paiement ou de document d’identité. Une vérification raisonnable ou des précisions requises par la procédure légale applicable peuvent être demandées. Nous supprimerons ou anonymiserons les données détenues par le développeur lorsque les conditions légales seront remplies et expliquerons quelles données doivent être conservées en raison d’une obligation légale ou d’une réclamation. Les demandes reçoivent une réponse dans le délai légal applicable, notamment dans un délai maximal de 30 jours lorsque la KVKK s’applique.</p><p>Les demandes simples d’assistance et de suppression peuvent utiliser la méthode ci-dessus. Une demande formelle au titre de la KVKK doit être rédigée en turc et envoyée depuis une adresse e-mail préalablement communiquée au développeur et enregistrée par celui-ci, ou utiliser une autre méthode autorisée par le communiqué applicable. L’article 5 exige que les demandes formelles contiennent les renseignements prescrits, tels que le nom, la demande, l’adresse de notification et les informations d’identité pertinentes. Consultez <a href=\"https://www.kvkk.gov.tr/Icerik/6938/Kurumumuza-Yapilan-Sikayetlerin-Usul-Sartlarina-Iliskin-Kamuoyu-Duyurusu\">la procédure officielle de demande</a>. N’envoyez pas spontanément de copie d’un document d’identité.</p>"
+        ],
+        [
+          "other",
+          "5. Dossiers d’Apple et de GitHub",
+          "<p>Supprimer Boxmello ou écrire à son développeur n’efface ni l’historique de facturation d’Apple, ni les données du compte Apple, ni les journaux de sécurité d’hébergement de GitHub. Pour les dossiers qu’ils contrôlent, utilisez <a href=\"https://privacy.apple.com/\">les outils Données et confidentialité d’Apple</a> ou les moyens de contact indiqués dans <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">la Déclaration de confidentialité de GitHub</a>. Toute copie de sauvegarde Apple doit également être gérée dans vos réglages Apple.</p><p>La suppression d’une sauvegarde locale n’annule pas, en elle-même, un achat, ne demande pas de remboursement et ne révoque pas un droit valide à un élément cosmétique permanent. Apple peut rendre à nouveau ce droit disponible via Restaurer les achats.</p>"
+        ],
+        [
+          "rights",
+          "6. En savoir plus sur vos droits",
+          "<p>La <a href=\"{PRIVACY}#rights\">Politique de confidentialité</a> explique les finalités du traitement, les destinataires, les fondements juridiques, la conservation et vos droits relatifs à la confidentialité au titre de la KVKK et des autres lois applicables. Vous pouvez contacter l’autorité de protection des données compétente selon la procédure de réclamation applicable.</p>"
+        ]
+      ]
+    },
+    "licenses": {
+      "title": "Licences et crédits",
+      "eyebrow": "REMERCIEMENTS",
+      "lede": "Les polices qui contribuent au caractère de Boxmello et la licence applicable à l’app.",
+      "sections": [
+        [
+          "app",
+          "1. Application et contenu",
+          "<p>Boxmello est développé par Bayram Baş. L’application est concédée sous licence au titre de l’<a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">EULA standard d’Apple</a>, sous réserve de toute licence applicable de l’App Store fournie avec elle. Les informations propres au jeu figurent dans les <a href=\"{TERMS}\">Conditions d’utilisation</a>. Les droits et licences de tiers ci-dessous restent ceux de leurs titulaires respectifs.</p>"
+        ],
+        [
+          "fonts",
+          "2. Remerciements pour les polices libres",
+          "<p>Le jeu inclut <strong>Baloo 2</strong> et <strong>Nunito</strong> sous la SIL Open Font License, version 1.1. Ce site d’assistance utilise les polices du système ; il ne charge pas de polices depuis un service externe.</p><ul><li>Baloo 2 — Copyright 2019 The Baloo 2 Project Authors. <a href=\"https://github.com/EkType/Baloo2\">Projet</a> · <a href=\"{ASSETS}/OFL-Baloo2.txt\">Texte intégral de la licence</a>.</li><li>Nunito — Copyright 2014 The Nunito Project Authors. <a href=\"https://github.com/googlefonts/nunito\">Projet</a> · <a href=\"{ASSETS}/OFL-Nunito.txt\">Texte intégral de la licence</a>.</li></ul><p>Les mentions originales de droits d’auteur et de licence sont reproduites dans les fichiers liés.</p>"
+        ],
+        [
+          "contact",
+          "3. Questions relatives aux droits",
+          "<p>Pour une question d’attribution ou le signalement d’un problème de droits, contactez <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a> en précisant le contenu et votre préoccupation.</p>"
+        ]
+      ]
+    }
+  }
+}

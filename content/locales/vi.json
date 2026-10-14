@@ -1,0 +1,273 @@
+{
+  "nav": [
+    "Hỗ trợ",
+    "Quyền riêng tư",
+    "Điều khoản",
+    "Dữ liệu và xóa dữ liệu",
+    "Giấy phép"
+  ],
+  "skip": "Chuyển đến nội dung",
+  "contents": "Trên trang này",
+  "back": "Quay lại hỗ trợ",
+  "updated": "Ngày có hiệu lực và cập nhật gần nhất: 14 tháng 10 năm 2026",
+  "footer": "Thông tin hỗ trợ và pháp lý cho Boxmello.",
+  "footer_note": "Trang web này không được thêm quảng cáo hay công cụ phân tích khách truy cập. Quyền riêng tư liên quan đến dịch vụ lưu trữ được giải thích trong Chính sách quyền riêng tư của chúng tôi.",
+  "home": {
+    "title": "Một chút trợ giúp với Boxmello.",
+    "eyebrow": "BOXMELLO · HỖ TRỢ",
+    "lede": "Bạn có câu hỏi về câu đố, giao dịch mua hay dữ liệu của mình? Tìm câu trả lời tại đây hoặc viết trực tiếp cho nhà phát triển.",
+    "contact_button": "Gửi email hỗ trợ",
+    "faq_button": "Xem câu hỏi thường gặp",
+    "facts": [
+      "Không có tài khoản trò chơi",
+      "Tiến trình được lưu trên thiết bị",
+      "Giao dịch mua trong ứng dụng là tùy chọn"
+    ],
+    "documents_title": "Thông tin của bạn, được giải thích rõ ràng.",
+    "documents_intro": "Quyền riêng tư, giao dịch mua và các điều khoản áp dụng khi bạn chơi.",
+    "cards": [
+      [
+        "privacy",
+        "01 · QUYỀN RIÊNG TƯ CỦA BẠN",
+        "Chính sách quyền riêng tư",
+        "Những gì được giữ trên thiết bị, những gì Apple xử lý và điều gì xảy ra khi bạn liên hệ hỗ trợ."
+      ],
+      [
+        "terms",
+        "02 · CHƠI BOXMELLO",
+        "Điều khoản sử dụng",
+        "Quy tắc trò chơi, giao dịch mua tùy chọn, hoàn tiền và EULA tiêu chuẩn của Apple."
+      ],
+      [
+        "data-deletion",
+        "03 · QUYỀN KIỂM SOÁT CỦA BẠN",
+        "Dữ liệu và xóa dữ liệu",
+        "Xóa bản lưu cục bộ, quản lý bản sao lưu hoặc yêu cầu xóa thư từ hỗ trợ."
+      ],
+      [
+        "licenses",
+        "04 · GHI NHẬN",
+        "Giấy phép và ghi nhận",
+        "Ghi nhận phông chữ của bên thứ ba và toàn văn thông báo giấy phép phông chữ mở."
+      ]
+    ],
+    "contact_title": "Liên hệ với chúng tôi.",
+    "contact_copy": "Boxmello được phát triển bởi Bayram Baş. Để được trợ giúp, báo lỗi, góp ý về khả năng tiếp cận hoặc gửi yêu cầu về quyền riêng tư, hãy gửi email đến:",
+    "contact_hint": "Nêu mẫu thiết bị, phiên bản iOS, phiên bản Boxmello (trong Cài đặt), số màn chơi nếu liên quan và điều đã xảy ra. Ảnh chụp màn hình có thể hữu ích; hãy xóa thông tin cá nhân trước.",
+    "contact_safety": "Không bao giờ gửi mật khẩu Tài khoản Apple, thông tin thẻ thanh toán hay giấy tờ tùy thân. Nếu cần thông tin về giao dịch mua, chúng tôi sẽ chỉ yêu cầu thông tin tối thiểu.",
+    "faq_title": "Câu hỏi thường gặp",
+    "faqs": [
+      [
+        "Tiến trình của tôi được lưu ở đâu?",
+        "<p>Trên thiết bị của bạn, cùng với số dư xu, vật phẩm trợ giúp, đồ trang trí và cài đặt. Boxmello không có tài khoản trò chơi hay tính năng đồng bộ đám mây riêng. Bản sao lưu thiết bị có thể chứa dữ liệu ứng dụng tùy theo cài đặt Apple của bạn, nhưng không phải là dịch vụ khôi phục được bảo đảm của Boxmello.</p><p><strong>Hãy liên hệ hỗ trợ trước khi xóa hoặc cài đặt lại ứng dụng để khắc phục sự cố.</strong> Việc đó có thể làm mất tiến trình và xu chưa sử dụng.</p>"
+      ],
+      [
+        "Làm thế nào để khôi phục Bưu Cục Bạc Hà (Mint Post)?",
+        "<p>Sử dụng Tài khoản Apple đã dùng để mua ban đầu, kết nối internet rồi chọn <strong>Khôi phục giao dịch mua</strong> trong Cửa hàng hoặc Cài đặt của trò chơi. Thao tác này kiểm tra các giao dịch mua vật phẩm trang trí vĩnh viễn đủ điều kiện, bao gồm Bưu Cục Bạc Hà (Mint Post). Thao tác này không tạo lại tiến trình màn chơi hay số dư xu tiêu hao của bạn.</p>"
+      ],
+      [
+        "Giao dịch mua đang chờ xử lý hoặc chưa xuất hiện. Tôi nên làm gì?",
+        "<p>Đừng thanh toán lại cho cùng một giao dịch mua chưa nhận được. Kiểm tra kết nối và xem Apple có đang chờ thanh toán hoặc sự phê duyệt của gia đình không. Mở lại Boxmello để ứng dụng có thể thử phân phối lại các giao dịch đã được xác minh. Với Bưu Cục Bạc Hà (Mint Post), hãy thử cả Khôi phục giao dịch mua. Nếu vẫn chưa được giải quyết, hãy gửi email cho nhà phát triển, nêu tên sản phẩm, thời gian mua gần đúng, phiên bản ứng dụng và thông báo được hiển thị. Che thông tin không liên quan trên biên nhận.</p>"
+      ],
+      [
+        "Tôi có thể khôi phục gói xu hoặc chuyển tiến trình sang thiết bị khác không?",
+        "<p>Gói xu là giao dịch mua vật phẩm tiêu hao. Khôi phục giao dịch mua không tạo lại xu đã được phân phối, vật phẩm đã dùng hay tiến trình cục bộ. Không có ví gắn với tài khoản hay đồng bộ bản lưu giữa các thiết bị. Đổi thiết bị hoặc xóa ứng dụng có thể làm mất xu còn lại và tiến trình của bạn.</p>"
+      ],
+      [
+        "Việc hoàn tiền hoạt động như thế nào?",
+        "<p>Apple xử lý thanh toán và yêu cầu hoàn tiền cho các giao dịch mua trên App Store. Truy cập <a href=\"https://reportaproblem.apple.com/\">dịch vụ Báo cáo sự cố của Apple</a> hoặc đọc <a href=\"https://support.apple.com/en-us/118223\">hướng dẫn hoàn tiền của Apple</a>. Điều kiện được hoàn tiền phụ thuộc vào giao dịch và pháp luật áp dụng. Khoản hoàn tiền đã được xác minh có thể dẫn đến việc gỡ bỏ quyền sử dụng vật phẩm trang trí tương ứng hoặc số xu liên quan chưa được tiêu.</p>"
+      ],
+      [
+        "Boxmello có cần kết nối internet không?",
+        "<p>Chơi giải đố thông thường sử dụng nội dung đi kèm ứng dụng và có thể hoạt động ngoại tuyến. Việc tải sản phẩm App Store, mua hàng hoặc khôi phục giao dịch mua vĩnh viễn cần truy cập dịch vụ của Apple. Email hỗ trợ và trang web này cũng cần kết nối.</p>"
+      ],
+      [
+        "Trò chơi bị treo, thoát đột ngột hoặc không lưu. Tôi nên thử gì?",
+        "<p>Đóng rồi mở lại Boxmello, kiểm tra dung lượng trống trên thiết bị và cài đặt các bản cập nhật ứng dụng và iOS hiện có. Nếu xuất hiện lỗi lưu, hãy giữ nguyên ứng dụng đã cài và gửi chính xác thông báo đó cho hỗ trợ. Tránh mua lặp lại hoặc xóa ứng dụng trong khi chúng tôi điều tra.</p>"
+      ],
+      [
+        "Làm thế nào để đổi ngôn ngữ hoặc tùy chọn tiếp cận?",
+        "<p>Mở Cài đặt trong trò chơi để chỉnh ngôn ngữ, nhạc, âm thanh, Phản hồi rung, Giảm chuyển động và Viền rõ hơn. Nếu bạn khó sử dụng văn bản, điều khiển hoặc VoiceOver, hãy gửi mẫu thiết bị và mô tả màn hình cho hỗ trợ.</p>"
+      ],
+      [
+        "Làm thế nào để xóa dữ liệu của tôi?",
+        "<p>Không có tài khoản Boxmello để xóa. Dữ liệu ứng dụng cục bộ, bản sao lưu thiết bị, email hỗ trợ và hồ sơ mua hàng của Apple được xử lý riêng. Làm theo <a href=\"{DATA}\">hướng dẫn về dữ liệu và xóa dữ liệu</a> cho từng loại.</p>"
+      ]
+    ]
+  },
+  "pages": {
+    "privacy": {
+      "title": "Chính sách quyền riêng tư",
+      "eyebrow": "QUYỀN RIÊNG TƯ CỦA BẠN",
+      "lede": "Giải thích thực tế về bản lưu cục bộ của Boxmello, dịch vụ Apple, email hỗ trợ và trang web này. Đây cũng là thông báo của chúng tôi theo Luật Bảo vệ dữ liệu cá nhân của Thổ Nhĩ Kỳ (KVKK).",
+      "sections": [
+        [
+          "controller",
+          "1. Ai chịu trách nhiệm?",
+          "<p>Boxmello được cung cấp bởi <strong>Bayram Baş</strong> tại Thổ Nhĩ Kỳ. Đối với dữ liệu cá nhân do nhà phát triển xử lý, Bayram Baş là bên kiểm soát dữ liệu. Liên hệ: <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>.</p><p>Chính sách này áp dụng cho trò chơi iOS/iPadOS hiện tại, trang web hỗ trợ này và thư từ trao đổi với nhà phát triển. Apple và GitHub cũng xử lý thông tin cho các dịch vụ riêng của họ theo thông báo quyền riêng tư của từng bên.</p>"
+        ],
+        [
+          "game-data",
+          "2. Dữ liệu được lưu trong trò chơi",
+          "<p>Việc chơi thông thường với bản App Store không gửi bản lưu trò chơi của bạn đến máy chủ của nhà phát triển. Boxmello không có tài khoản trò chơi, SDK quảng cáo, SDK phân tích của bên thứ ba hay theo dõi giữa các ứng dụng. Ứng dụng không yêu cầu quyền truy cập vị trí, danh bạ, camera hay micrô của bạn.</p><p>Ứng dụng lưu mã định danh hồ sơ cục bộ được tạo ngẫu nhiên, tiến trình màn chơi, điểm số và sao, trạng thái câu đố đang chơi, số dư xu và vật phẩm trợ giúp, đồ trang trí, phần thưởng hằng ngày, trạng thái hướng dẫn và cài đặt. Ứng dụng cũng lưu hồ sơ xác minh giao dịch mua như mã định danh sản phẩm và giao dịch, ngày xử lý, trạng thái hoàn tiền và quyền sử dụng từ giao dịch mua vĩnh viễn. Những dữ liệu này giúp ứng dụng lưu trò chơi, tránh phân phối giao dịch mua trùng lặp và áp dụng các thay đổi giao dịch mua đã được xác minh.</p><p>Bản lưu và bản sao khôi phục nằm trên cùng một thiết bị. Chúng không phải là bản sao lưu đám mây độc lập. Tính năng sao lưu hoặc di chuyển thiết bị của Apple có thể bao gồm dữ liệu này tùy theo cài đặt của bạn. Nhà phát triển không có quyền truy cập từ xa vào bản lưu cục bộ của bạn.</p><p>Thông tin bản lưu cục bộ và StoreKit được xử lý bằng phương tiện điện tử và tự động trên thiết bị để cung cấp trò chơi và xác minh giao dịch mua, trên cơ sở thực hiện hợp đồng theo Điều 5(2)(c) của KVKK.</p>"
+        ],
+        [
+          "apple",
+          "3. Giao dịch mua và thông tin do Apple cung cấp",
+          "<p>Apple xử lý thanh toán App Store thông qua StoreKit. Boxmello nhận thông tin giao dịch và quyền sử dụng đã được xác minh trên thiết bị của bạn để phân phối giao dịch mua và xử lý khôi phục hoặc hoàn tiền. Nhà phát triển không nhận được thông tin thẻ thanh toán hay mật khẩu Tài khoản Apple của bạn.</p><p>Apple có thể cung cấp cho nhà phát triển bản tóm tắt doanh số và báo cáo hiệu suất hoặc sự cố ứng dụng. Việc chia sẻ dữ liệu sử dụng và sự cố phụ thuộc vào dịch vụ Apple và lựa chọn của bạn trên thiết bị; điều này tách biệt với SDK phân tích trong Boxmello. Xem <a href=\"https://www.apple.com/legal/privacy/data/en/app-analytics/\">Phân tích ứng dụng và quyền riêng tư</a> cùng <a href=\"https://www.apple.com/legal/privacy/en-ww/\">Chính sách quyền riêng tư của Apple</a>. Bạn có thể xem lại việc chia sẻ tại Cài đặt iOS → Quyền riêng tư &amp; Bảo mật → Phân tích &amp; Cải tiến.</p><p>Báo cáo chẩn đoán do nhà phát triển nắm giữ được dùng để xác định và khắc phục lỗi, dựa trên lợi ích hợp pháp theo Điều 5(2)(f) của KVKK, được cân nhắc với quyền của bạn. Bản sao do nhà phát triển nắm giữ chỉ được lưu khi còn cần thiết để điều tra và giải quyết sự cố hoặc đáp ứng nghĩa vụ hay yêu cầu pháp lý, sau đó bị xóa hoặc ẩn danh hóa. Apple kiểm soát thời gian lưu giữ báo cáo trong dịch vụ riêng của mình.</p>"
+        ],
+        [
+          "support",
+          "4. Thư từ hỗ trợ và cơ sở pháp lý",
+          "<p>Nếu bạn gửi email cho nhà phát triển, địa chỉ email, tên người gửi, nội dung và mọi tệp đính kèm hoặc chi tiết kỹ thuật mà bạn lựa chọn cung cấp sẽ được nhận qua iCloud Mail. Cần có địa chỉ email và đủ thông tin về câu hỏi để trả lời bằng email; bạn có thể chơi mà không liên hệ với chúng tôi. Vui lòng tránh gửi thông tin cá nhân nhạy cảm.</p><p>Dữ liệu hỗ trợ được dùng để trả lời yêu cầu, điều tra sự cố, trợ giúp giao dịch mua, khắc phục vấn đề được báo cáo hoặc xử lý yêu cầu về quyền riêng tư. Dữ liệu này không được dùng cho quảng cáo, danh sách gửi thư, bán dữ liệu cá nhân hay quyết định tự động về bạn.</p><div class=\"table-wrap\"><table><caption>Mục đích và cơ sở pháp lý của dữ liệu hỗ trợ do nhà phát triển xử lý</caption><thead><tr><th scope=\"col\">Mục đích</th><th scope=\"col\">Cơ sở theo KVKK</th></tr></thead><tbody><tr><td>Trả lời yêu cầu hỗ trợ trò chơi hoặc giao dịch mua cần thiết để cung cấp trò chơi</td><td>Điều 5(2)(c): thực hiện hợp đồng</td></tr><tr><td>Điều tra lỗi và bảo vệ thư từ hỗ trợ khỏi hành vi lạm dụng, đồng thời tôn trọng quyền của bạn</td><td>Điều 5(2)(f): lợi ích hợp pháp</td></tr><tr><td>Đáp ứng yêu cầu dữ liệu theo pháp luật hoặc việc tiết lộ bắt buộc</td><td>Điều 5(2)(ç): nghĩa vụ pháp lý</td></tr><tr><td>Giải quyết tranh chấp hoặc xác lập, thực hiện hay bảo vệ yêu cầu pháp lý</td><td>Điều 5(2)(e): bảo vệ quyền</td></tr></tbody></table></div><p>Khi luật quyền riêng tư khác có liên quan yêu cầu cơ sở khác, cơ sở tương ứng về hợp đồng, nghĩa vụ pháp lý hoặc lợi ích hợp pháp sẽ áp dụng. Nếu một hoạt động tùy chọn riêng biệt cần sự đồng ý, sự đồng ý phải được yêu cầu riêng; việc đọc chính sách này tự nó không có nghĩa là đồng ý.</p>"
+        ],
+        [
+          "website",
+          "5. Lưu trữ trang web và cookie",
+          "<p>Trang hỗ trợ tĩnh này không có cookie, lưu trữ cục bộ, quảng cáo, biểu mẫu liên hệ, tiện ích mạng xã hội nhúng hay công cụ phân tích khách truy cập do nhà phát triển thêm vào. Hình ảnh và kiểu trình bày được phục vụ cùng trang; không sử dụng dịch vụ phông chữ của bên thứ ba.</p><p>GitHub Pages lưu trữ trang web. GitHub cho biết họ ghi lại địa chỉ IP của khách truy cập vì mục đích bảo mật, kể cả lượt truy cập khi không đăng nhập. GitHub kiểm soát các nhật ký lưu trữ này; nhà phát triển không nhận nhật ký của từng khách truy cập thông qua trang này. Xem <a href=\"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection\">việc thu thập dữ liệu của GitHub Pages</a> và <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">Tuyên bố quyền riêng tư của GitHub</a>. Mở liên kết ngoài sẽ đưa bạn đến dịch vụ của nhà cung cấp đó.</p>"
+        ],
+        [
+          "sharing",
+          "6. Bên nhận và xử lý ngoài quốc gia của bạn",
+          "<p>Apple cung cấp dịch vụ thanh toán, báo cáo nền tảng, sao lưu thiết bị khi được bật và iCloud Mail. GitHub cung cấp dịch vụ lưu trữ và bảo mật trang web. Bayram Baş và các dịch vụ email dùng để chuyển thư xử lý thư từ hỗ trợ. Thông tin cũng có thể được tiết lộ cho cơ quan có thẩm quyền khi pháp luật yêu cầu, hoặc cho cố vấn chuyên môn khi cần thiết cho một yêu cầu pháp lý, giới hạn ở mức cần thiết.</p><p>Tin nhắn hỗ trợ được nhận và lưu qua iCloud Mail của Apple; nội dung, thông tin người gửi và tệp đính kèm có thể được xử lý trên cơ sở hạ tầng ngoài Thổ Nhĩ Kỳ hoặc quốc gia cư trú của bạn. GitHub cũng xử lý nhật ký IP của khách truy cập trên cơ sở hạ tầng quốc tế để phục vụ và bảo vệ trang này. Thông báo quyền riêng tư của Apple và GitHub giải thích các dịch vụ đó. Việc truy cập trang hoặc gửi email hỗ trợ không được coi là đồng ý chuyển dữ liệu quốc tế. Câu hỏi về một lần chuyển cụ thể liên quan đến dữ liệu do nhà phát triển nắm giữ có thể gửi đến địa chỉ liên hệ ở trên.</p>"
+        ],
+        [
+          "retention",
+          "7. Lưu giữ và bảo mật",
+          "<p>Bản lưu cục bộ ở trên thiết bị cho đến khi dữ liệu ứng dụng bị xóa; bản sao lưu thiết bị hoặc đám mây được kiểm soát riêng. Thư từ hỗ trợ chỉ được lưu khi cần để giải quyết yêu cầu và việc theo dõi liên quan, đáp ứng nghĩa vụ pháp lý có liên quan, hoặc xác lập, thực hiện hay bảo vệ yêu cầu pháp lý. Khoảng thời gian liên quan phụ thuộc vào sự cố, tranh chấp chưa được giải quyết và thời hạn lưu giữ hoặc thời hiệu áp dụng theo pháp luật. Dữ liệu không còn cần cho các mục đích đó sẽ bị xóa hoặc ẩn danh hóa.</p><p>Apple và GitHub xác định thời gian lưu giữ hồ sơ do họ kiểm soát. Các biện pháp bảo vệ hợp lý được sử dụng cho thư từ do nhà phát triển nắm giữ; không có phương thức lưu trữ hay truyền tải nào bảo đảm an toàn tuyệt đối. Đừng đưa mật khẩu, thông tin thẻ đầy đủ hoặc giấy tờ tùy thân không cần thiết vào tin nhắn hỗ trợ.</p>"
+        ],
+        [
+          "rights",
+          "8. Quyền riêng tư của bạn",
+          "<p>Theo Điều 11 của KVKK, bạn có thể hỏi liệu dữ liệu của mình có được xử lý không; yêu cầu thông tin về việc xử lý, mục đích và cách sử dụng; biết các bên nhận trong hoặc ngoài nước; yêu cầu chỉnh sửa, xóa hoặc tiêu hủy khi đáp ứng điều kiện pháp lý; và yêu cầu thông báo cho bên nhận về các chỉnh sửa hoặc việc xóa đó. Bạn có thể phản đối kết quả bất lợi chỉ dựa trên phân tích tự động và yêu cầu bồi thường do xử lý trái pháp luật. Boxmello không đưa ra quyết định tự động như vậy.</p><p>Các luật khác có liên quan cũng có thể trao quyền truy cập, chuyển dữ liệu, hạn chế, phản đối và rút lại sự đồng ý. Bạn có thể khiếu nại với cơ quan bảo vệ dữ liệu có liên quan. Đối với Thổ Nhĩ Kỳ, xem <a href=\"https://www.kvkk.gov.tr/Icerik/2036/Ilgili-Kisinin-Haklari\">hướng dẫn về quyền theo KVKK</a>.</p><p>Gửi email cho nhà phát triển từ địa chỉ đã dùng trong thư từ, giải thích yêu cầu của bạn. Chúng tôi có thể yêu cầu xác minh tương xứng và mọi chi tiết cần thiết theo thủ tục áp dụng. Yêu cầu được trả lời trong thời hạn pháp luật áp dụng, bao gồm không quá 30 ngày khi KVKK áp dụng. Mọi ngoại lệ lưu giữ bắt buộc theo luật sẽ được giải thích. Xem <a href=\"{DATA}\">hướng dẫn về dữ liệu và xóa dữ liệu</a>. Nhà phát triển không thể kiểm tra hoặc xóa từ xa bản lưu chỉ có trên thiết bị của bạn, hay xóa hồ sơ do Apple hoặc GitHub kiểm soát.</p>"
+        ],
+        [
+          "children",
+          "9. Trẻ em và gia đình",
+          "<p>Trò chơi không yêu cầu trẻ em hay người chơi khác cung cấp tài khoản hoặc thông tin cá nhân để chơi. Chúng tôi không yêu cầu trẻ em gửi thông tin cá nhân hay sử dụng dữ liệu của trẻ cho quảng cáo. Cha mẹ hoặc người giám hộ nên xử lý câu hỏi về hỗ trợ và giao dịch mua cho trẻ. Nếu bạn cho rằng một trẻ đã gửi thông tin cá nhân, hãy liên hệ nhà phát triển để thông tin được xem xét và xóa khi thích hợp. Tuân theo xếp hạng độ tuổi trên App Store và yêu cầu về sự cho phép của cha mẹ có liên quan.</p>"
+        ],
+        [
+          "beta",
+          "10. Phiên bản beta và buổi thử nghiệm trò chơi tùy chọn",
+          "<p>Bản dựng TestFlight hoặc bản phát triển có thể chứa chế độ thử nghiệm trò chơi tùy chọn do nhà nghiên cứu bật. Khi được bật, chế độ này ghi mã người tham gia, sự kiện trò chơi, thời gian và thông tin bản dựng vào tệp cục bộ. Các tệp không được tự động tải lên; người thực hiện thí nghiệm có thể chủ động xuất chúng qua menu chia sẻ của thiết bị. Bản App Store thông thường không bật chế độ này. Mọi nghiên cứu có tổ chức phải giải thích mục đích, bên nhận, thời gian lưu giữ và lựa chọn tham gia trước khi thu thập hoặc xuất dữ liệu nghiên cứu. Dịch vụ TestFlight của Apple có điều khoản quyền riêng tư riêng.</p>"
+        ],
+        [
+          "changes",
+          "11. Thay đổi và liên hệ",
+          "<p>Ngày ở trên xác định phiên bản này. Thông báo sẽ được cập nhật khi cách thức xử lý dữ liệu thay đổi; mọi thông báo hoặc sự đồng ý bổ sung do pháp luật yêu cầu phải được cung cấp trước việc xử lý mới có liên quan. Câu hỏi và yêu cầu về quyền riêng tư: <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>.</p>"
+        ]
+      ]
+    },
+    "terms": {
+      "title": "Điều khoản sử dụng",
+      "eyebrow": "CHƠI BOXMELLO",
+      "lede": "Điều khoản riêng của trò chơi, thông tin mua hàng và liên kết trực tiếp đến EULA tiêu chuẩn của Apple.",
+      "sections": [
+        [
+          "provider",
+          "1. Nhà cung cấp và phạm vi",
+          "<p>Boxmello được cung cấp bởi <strong>Bayram Baş</strong>, Thổ Nhĩ Kỳ. Hỗ trợ: <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>. Các điều khoản này giải thích việc sử dụng trò chơi và giao dịch mua tùy chọn. Hãy đọc trước khi chơi hoặc mua hàng. Các quyền bắt buộc của người tiêu dùng theo pháp luật áp dụng vẫn có hiệu lực.</p>"
+        ],
+        [
+          "license",
+          "2. Giấy phép ứng dụng",
+          "<div class=\"callout\"><p>Giấy phép ứng dụng App Store được điều chỉnh bởi <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Thỏa thuận cấp phép người dùng cuối tiêu chuẩn của Apple (EULA)</a>, trừ khi một EULA tùy chỉnh riêng được cung cấp rõ ràng qua App Store. Trang này là thông tin bổ sung về trò chơi và không thay thế EULA tiêu chuẩn của Apple.</p></div><p>Nếu các điều khoản bổ sung này mâu thuẫn với giấy phép App Store áp dụng hoặc quy định pháp luật bắt buộc, giấy phép hoặc quy định đó được ưu tiên. Trò chơi, thương hiệu, hình ảnh và nội dung khác được bảo vệ bởi quyền sở hữu trí tuệ có liên quan. Tài liệu của bên thứ ba vẫn chịu sự điều chỉnh của giấy phép riêng; xem <a href=\"{LICENSES}\">giấy phép và ghi nhận</a>.</p>"
+        ],
+        [
+          "use",
+          "3. Sử dụng công bằng và hợp pháp",
+          "<p>Sử dụng trò chơi để giải trí cá nhân hợp pháp và theo giấy phép áp dụng. Không can thiệp vào việc xác minh giao dịch mua, lấy vật phẩm kỹ thuật số bằng gian lận, phân phối bản sao trái phép hoặc dùng kênh hỗ trợ để quấy rối người khác. Các hạn chế không loại bỏ quyền mà quy định pháp luật bắt buộc hoặc giấy phép nguồn mở áp dụng trao cho bạn.</p><p>Tuân theo xếp hạng độ tuổi trên App Store. Nếu bạn không thể tự mình đồng ý hợp pháp với các điều khoản này hoặc mua hàng, hãy có sự tham gia của cha mẹ hoặc người giám hộ và tuân theo các biện pháp kiểm soát mua hàng của Apple.</p>"
+        ],
+        [
+          "purchases",
+          "4. Giao dịch mua trong ứng dụng tùy chọn",
+          "<p>Trò chơi hiện tại cung cấp bốn gói xu tiêu hao và giao dịch mua vật phẩm trang trí vĩnh viễn Bưu Cục Bạc Hà (Mint Post). Không có gói đăng ký. Giao dịch mua là tùy chọn; chiến dịch 120 màn hiện tại có thể chơi mà không cần mua gói hay vật phẩm trang trí. Bạn cũng có thể kiếm xu khi chơi và dùng cho vật phẩm trợ giúp trong trò chơi hoặc vật phẩm trong xưởng.</p><p>Giá, đơn vị tiền tệ, cách tính thuế và việc cho phép mua hàng do Apple hiển thị khi thanh toán được áp dụng. Tình trạng cung cấp và giá có thể khác theo cửa hàng khu vực. Xu và vật phẩm trang trí là vật phẩm trò chơi kỹ thuật số, không phải tiền, tiền gửi hay tài sản có thể chuyển nhượng. Chúng không thể được giao dịch hoặc đổi thành tiền mặt qua Boxmello; điều này không hạn chế quyền hoàn tiền theo luật định.</p>"
+        ],
+        [
+          "saves",
+          "5. Bản lưu cục bộ và khôi phục giao dịch mua",
+          "<p>Tiến trình, vật phẩm trợ giúp và số dư xu được lưu trên thiết bị. Boxmello không có tài khoản trò chơi, ví đám mây hay tính năng đồng bộ bản lưu riêng giữa các thiết bị. Xóa ứng dụng, mất dữ liệu hoặc đổi thiết bị có thể làm mất tiến trình và số dư vật phẩm tiêu hao chưa dùng. Bản sao khôi phục cục bộ giúp xử lý một số lỗi lưu nhưng nằm trên cùng thiết bị. Bản sao lưu của Apple không phải phương thức khôi phục được bảo đảm.</p><p>Khôi phục giao dịch mua trong Cửa hàng hoặc Cài đặt kiểm tra giao dịch mua vĩnh viễn đủ điều kiện như Bưu Cục Bạc Hà (Mint Post) bằng Tài khoản Apple đã mua ban đầu. Thao tác này không tạo lại gói xu đã phân phối, số dư cục bộ hay tiến trình màn chơi. Nếu thanh toán đang chờ hoặc việc phân phối đã xác minh chưa hoàn tất, hãy liên hệ hỗ trợ trước khi mua lại hoặc xóa ứng dụng.</p>"
+        ],
+        [
+          "refunds",
+          "6. Hoàn tiền và thanh toán",
+          "<p>Apple xử lý thanh toán App Store. Yêu cầu hoàn tiền qua <a href=\"https://reportaproblem.apple.com/\">reportaproblem.apple.com</a>; <a href=\"https://support.apple.com/en-us/118223\">hướng dẫn của Apple</a> giải thích quy trình. Điều kiện được hoàn tiền tuân theo pháp luật áp dụng và điều khoản Apple. Liên hệ hỗ trợ Boxmello nếu có sự cố kỹ thuật khi phân phối.</p><p>Khi Apple thông báo khoản hoàn tiền hoặc việc thu hồi đã được xác minh, quyền sử dụng vật phẩm trang trí vĩnh viễn tương ứng hoặc số xu liên quan chưa tiêu có thể bị gỡ bỏ. Trò chơi không tạo số dư xu âm do xu được hoàn tiền đã được tiêu. Không nội dung nào ở đây loại trừ quyền bắt buộc về hủy, hoàn tiền, sửa chữa hoặc biện pháp khắc phục khác của người tiêu dùng.</p>"
+        ],
+        [
+          "availability",
+          "7. Cập nhật và khả năng cung cấp",
+          "<p>Boxmello yêu cầu thiết bị và hệ điều hành tương thích. Phần chơi giải đố cốt lõi hoạt động ngoại tuyến; dịch vụ App Store và hỗ trợ cần kết nối. Bản cập nhật có thể sửa lỗi hoặc thay đổi tính năng. Không thể bảo đảm khả năng tương thích liên tục với mọi thiết bị hoặc hệ điều hành trong tương lai. Thay đổi ảnh hưởng đến quyền đã trả phí vẫn tuân theo giấy phép áp dụng và pháp luật về người tiêu dùng.</p><p>Nếu sự cố ảnh hưởng đến tiến trình hoặc giao dịch mua, hãy liên hệ hỗ trợ. Các điều khoản bổ sung này không thêm điều khoản miễn trừ trách nhiệm chung hay thay thế quy định bảo hành và trách nhiệm trong giấy phép áp dụng. Mọi trách nhiệm không thể bị loại trừ theo pháp luật vẫn không bị ảnh hưởng.</p>"
+        ],
+        [
+          "privacy",
+          "8. Quyền riêng tư",
+          "<p><a href=\"{PRIVACY}\">Chính sách quyền riêng tư</a> giải thích bản lưu cục bộ, dịch vụ Apple, thư từ hỗ trợ, dịch vụ lưu trữ trang web và quyền của bạn. Đây là thông báo minh bạch; sử dụng trò chơi không phải là sự đồng ý chung cho việc xử lý dữ liệu cá nhân tùy chọn.</p>"
+        ],
+        [
+          "disputes",
+          "9. Câu hỏi, tranh chấp và thay đổi",
+          "<p>Gửi câu hỏi hoặc khiếu nại đến <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>. Các điều khoản bổ sung này được điều chỉnh bởi pháp luật Thổ Nhĩ Kỳ trong phạm vi được phép, không tước đi sự bảo vệ bắt buộc hay quyền tiếp cận tòa án và cơ quan bảo vệ người tiêu dùng có thẩm quyền nơi bạn cư trú. Giấy phép ứng dụng có quy định riêng về pháp luật điều chỉnh.</p><p>Thay đổi quan trọng sẽ được phản ánh ở ngày nêu trên và thông báo cho bạn khi được yêu cầu. Thay đổi không loại bỏ hồi tố các quyền đã phát sinh theo luật định. Bản dịch được cung cấp để thuận tiện; mọi khác biệt sẽ được giải quyết phù hợp với giấy phép áp dụng và pháp luật bắt buộc về người tiêu dùng.</p>"
+        ]
+      ]
+    },
+    "data-deletion": {
+      "title": "Dữ liệu của bạn và việc xóa",
+      "eyebrow": "QUYỀN KIỂM SOÁT CỦA BẠN",
+      "lede": "Không có tài khoản Boxmello. Bản lưu thiết bị, tin nhắn hỗ trợ và hồ sơ của bên thứ ba có cách xóa khác nhau.",
+      "sections": [
+        [
+          "before",
+          "1. Trước khi xóa",
+          "<div class=\"callout\"><p><strong>Xóa ứng dụng có thể làm mất vĩnh viễn tiến trình và xu chưa sử dụng.</strong> Nếu bạn đang cố khắc phục sự cố, hãy liên hệ hỗ trợ trước. Khôi phục giao dịch mua khôi phục vật phẩm trang trí vĩnh viễn đủ điều kiện, không phải số dư xu hay tiến trình giải đố của bạn.</p></div><p>Không có nút xóa dữ liệu hoặc xóa tài khoản chuyên dụng trong trò chơi. Nhà phát triển không có bản sao trên máy chủ của bản lưu và không thể đặt lại hoặc khôi phục bản lưu từ xa.</p>"
+        ],
+        [
+          "local",
+          "2. Xóa dữ liệu ứng dụng cục bộ",
+          "<ol><li>Trên iPhone hoặc iPad, mở <strong>Cài đặt → Cài đặt chung → Dung lượng iPhone / Dung lượng iPad → Boxmello</strong>.</li><li>Chọn <strong>Xóa ứng dụng</strong> và xác nhận. <strong>Gỡ bỏ ứng dụng</strong> giữ lại tài liệu và dữ liệu, nên đây không phải cùng một thao tác.</li><li>Kiểm tra các thiết bị khác có cài Boxmello; mỗi thiết bị có thể có bản lưu cục bộ riêng.</li></ol><p>Thao tác này xóa vùng chứa ứng dụng Boxmello khỏi thiết bị đó, bao gồm bản lưu cục bộ và tệp khôi phục. Cài lại sẽ tạo bản lưu mới, trừ khi bản sao lưu hoặc việc di chuyển hệ điều hành khôi phục dữ liệu trước đó. Thao tác này không xóa lịch sử mua hàng App Store của bạn.</p>"
+        ],
+        [
+          "backups",
+          "3. Quản lý bản sao lưu riêng",
+          "<p>Dữ liệu ứng dụng có thể vẫn có trong bản sao lưu iCloud hoặc máy tính theo cài đặt của bạn. Xem Boxmello trong cài đặt sao lưu iCloud của thiết bị và xóa hoặc loại trừ dữ liệu sao lưu nếu bạn muốn xóa cả bản sao đó. Xem riêng các bản sao lưu Mac hoặc PC. Tên menu của Apple có thể khác theo phiên bản hệ điều hành; xem <a href=\"https://support.apple.com/en-us/108922\">hướng dẫn dung lượng iCloud của Apple</a>. Xóa bản sao lưu có thể ảnh hưởng đến việc khôi phục dữ liệu khác, vì vậy hãy xem kỹ những gì bạn chọn.</p>"
+        ],
+        [
+          "email",
+          "4. Yêu cầu xóa thư từ hỗ trợ",
+          "<p>Gửi email đến <a href=\"mailto:bayrambas255@icloud.com?subject=Boxmello%20privacy%20request\">bayrambas255@icloud.com</a> với tiêu đề <strong>Yêu cầu về quyền riêng tư Boxmello</strong>. Nếu có thể, dùng địa chỉ email đã liên hệ hỗ trợ trước đây và nêu:</p><ul><li>Tên và họ của bạn.</li><li>Yêu cầu: xóa, truy cập, chỉnh sửa hoặc quyền riêng tư khác.</li><li>Thư từ hoặc khoảng thời gian liên quan.</li><li>Địa chỉ nhận trả lời nếu khác địa chỉ gửi.</li></ul><p>Đừng tự ý gửi mật khẩu, số thẻ thanh toán đầy đủ hay giấy tờ tùy thân khi chưa được yêu cầu. Có thể cần xác minh hợp lý hoặc chi tiết theo thủ tục pháp lý áp dụng. Chúng tôi sẽ xóa hoặc ẩn danh hóa dữ liệu do nhà phát triển nắm giữ khi đáp ứng điều kiện pháp lý, và giải thích dữ liệu nào phải giữ lại vì nghĩa vụ hay yêu cầu pháp lý. Yêu cầu được trả lời trong thời hạn pháp luật áp dụng, bao gồm tối đa 30 ngày khi KVKK áp dụng.</p><p>Yêu cầu hỗ trợ và xóa dữ liệu đơn giản có thể dùng cách trên. Đơn yêu cầu chính thức theo KVKK nên bằng tiếng Thổ Nhĩ Kỳ và được gửi từ địa chỉ email đã cung cấp và đăng ký với nhà phát triển trước đây, hoặc dùng phương thức khác được thông cáo áp dụng cho phép. Điều 5 yêu cầu đơn chính thức phải có các chi tiết được quy định, như tên, yêu cầu, địa chỉ nhận thông báo và thông tin định danh liên quan. Xem <a href=\"https://www.kvkk.gov.tr/Icerik/6938/Kurumumuza-Yapilan-Sikayetlerin-Usul-Sartlarina-Iliskin-Kamuoyu-Duyurusu\">thủ tục yêu cầu chính thức</a>. Đừng tự ý gửi bản sao giấy tờ tùy thân khi chưa được yêu cầu.</p>"
+        ],
+        [
+          "other",
+          "5. Hồ sơ của Apple và GitHub",
+          "<p>Xóa Boxmello hoặc gửi email cho nhà phát triển không xóa lịch sử thanh toán Apple, dữ liệu Tài khoản Apple hay nhật ký bảo mật lưu trữ của GitHub. Đối với hồ sơ họ kiểm soát, hãy dùng <a href=\"https://privacy.apple.com/\">công cụ Dữ liệu và quyền riêng tư của Apple</a> hoặc cách liên hệ trong <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">Tuyên bố quyền riêng tư của GitHub</a>. Mọi bản sao lưu Apple cũng phải được quản lý qua cài đặt Apple của bạn.</p><p>Xóa bản lưu cục bộ tự nó không hủy giao dịch mua, yêu cầu hoàn tiền hay thu hồi quyền hợp lệ đối với vật phẩm trang trí vĩnh viễn. Apple có thể cung cấp lại quyền đó qua Khôi phục giao dịch mua.</p>"
+        ],
+        [
+          "rights",
+          "6. Tìm hiểu thêm về quyền của bạn",
+          "<p><a href=\"{PRIVACY}#rights\">Chính sách quyền riêng tư</a> giải thích mục đích xử lý, bên nhận, cơ sở pháp lý, việc lưu giữ và quyền riêng tư của bạn theo KVKK cùng các luật khác có liên quan. Bạn có thể liên hệ cơ quan bảo vệ dữ liệu có liên quan theo thủ tục khiếu nại áp dụng.</p>"
+        ]
+      ]
+    },
+    "licenses": {
+      "title": "Giấy phép và ghi nhận",
+      "eyebrow": "GHI NHẬN",
+      "lede": "Các kiểu chữ góp phần tạo nên nét riêng của Boxmello và giấy phép áp dụng cho ứng dụng.",
+      "sections": [
+        [
+          "app",
+          "1. Ứng dụng và nội dung",
+          "<p>Boxmello được phát triển bởi Bayram Baş. Ứng dụng được cấp phép theo <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">EULA tiêu chuẩn của Apple</a>, tùy thuộc vào mọi giấy phép App Store áp dụng được cung cấp kèm theo. Thông tin riêng về trò chơi nằm trong <a href=\"{TERMS}\">Điều khoản sử dụng</a>. Quyền và giấy phép của bên thứ ba dưới đây vẫn thuộc về các chủ sở hữu tương ứng.</p>"
+        ],
+        [
+          "fonts",
+          "2. Ghi nhận phông chữ mở",
+          "<p>Trò chơi tích hợp <strong>Baloo 2</strong> và <strong>Nunito</strong> theo SIL Open Font License, Phiên bản 1.1. Trang web hỗ trợ này dùng phông chữ hệ thống; không tải phông chữ từ dịch vụ bên ngoài.</p><ul><li>Baloo 2 — Copyright 2019 The Baloo 2 Project Authors. <a href=\"https://github.com/EkType/Baloo2\">Dự án</a> · <a href=\"{ASSETS}/OFL-Baloo2.txt\">Thông báo giấy phép đầy đủ</a>.</li><li>Nunito — Copyright 2014 The Nunito Project Authors. <a href=\"https://github.com/googlefonts/nunito\">Dự án</a> · <a href=\"{ASSETS}/OFL-Nunito.txt\">Thông báo giấy phép đầy đủ</a>.</li></ul><p>Thông báo bản quyền và giấy phép gốc được sao chép trong các tệp được liên kết.</p>"
+        ],
+        [
+          "contact",
+          "3. Câu hỏi về quyền",
+          "<p>Để hỏi về việc ghi nhận hoặc báo cáo vấn đề về quyền, hãy liên hệ <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a> và chỉ rõ tài liệu cùng mối quan ngại của bạn.</p>"
+        ]
+      ]
+    }
+  }
+}

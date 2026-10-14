@@ -1,21 +1,24 @@
 #!/usr/bin/env python3
-"""Generate a buildless, script-free GitHub Pages support site from bilingual copy."""
+"""Generate a script-free GitHub Pages support site from localized catalogs."""
 from html import escape
 from pathlib import Path
 import sys
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'content'))
-from pages import CONTENT, EMAIL
+from catalog import CONTENT, EMAIL
+from languages import LANGUAGES
 
 BASE = '/boxmello-support'
 ORIGIN = 'https://bayrambas255.github.io'
+PUBLISHED_DATE = '2026-10-15'
 DOCS = ROOT / 'docs'
 ROUTES = ['', 'privacy', 'terms', 'data-deletion', 'licenses']
 
 
 def url(lang, route=''):
-    prefix = BASE + ('/tr' if lang == 'tr' else '')
+    prefix = BASE + ('/' + lang if lang != 'en' else '')
     return prefix + '/' + (route + '/' if route else '')
 
 
@@ -25,18 +28,22 @@ def expand(text, lang):
               'ASSETS': BASE + '/assets'}
     for key, value in values.items():
         text = text.replace('{' + key + '}', value)
+    text = text.replace('>' + EMAIL + '</a>', '><bdi dir="ltr">' + EMAIL + '</bdi></a>')
+    if LANGUAGES[lang][1] == 'rtl':
+        text = re.sub(r'5\(2\)\([cçef]\)', lambda m: '<bdi dir="ltr">' + m[0] + '</bdi>', text)
     return text
 
 
 def shell(lang, route, title, description, main):
     c = CONTENT[lang]
+    native, direction, main_label, language_label, legal_label, _ = LANGUAGES[lang]
     nav = ''.join(f'<a href="{url(lang, r)}"' + (' aria-current="page"' if r == route else '') + f'>{escape(label)}</a>'
                   for r, label in zip(ROUTES[:3], c['nav'][:3]))
-    languages = ''.join(f'<a href="{url(l, route)}" lang="{l}" hreflang="{l}"' + (' aria-current="page"' if l == lang else '') + f'>{label}</a>'
-                        for l, label in [('en', 'EN'), ('tr', 'TR')])
+    languages = ''.join(f'<a href="{url(l, route)}" lang="{l}" hreflang="{l}" dir="auto"' + (' aria-current="page"' if l == lang else '') + f'>{escape(LANGUAGES[l][0])}</a>' for l in CONTENT)
+    alternates = '\n  '.join(f'<link rel="alternate" hreflang="{l}" href="{ORIGIN}{url(l, route)}">' for l in CONTENT)
     footer_links = ''.join(f'<a href="{url(lang, r)}">{escape(label)}</a>' for r, label in zip(ROUTES[1:], c['nav'][1:]))
     return f'''<!doctype html>
-<html lang="{lang}">
+<html lang="{lang}" dir="{direction}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -45,24 +52,23 @@ def shell(lang, route, title, description, main):
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <title>{escape(title)} · Boxmello</title>
   <link rel="canonical" href="{ORIGIN}{url(lang, route)}">
-  <link rel="alternate" hreflang="en" href="{ORIGIN}{url('en', route)}">
-  <link rel="alternate" hreflang="tr" href="{ORIGIN}{url('tr', route)}">
+  {alternates}
   <link rel="alternate" hreflang="x-default" href="{ORIGIN}{url('en', route)}">
   <link rel="icon" type="image/png" href="{BASE}/assets/favicon.png">
   <link rel="apple-touch-icon" href="{BASE}/assets/apple-touch-icon.png">
-  <link rel="stylesheet" href="{BASE}/assets/site.css">
+  <link rel="stylesheet" href="{BASE}/assets/site.css?v=20261015-1">
 </head>
 <body class="{'page-home' if not route else 'page-legal'}">
   <a class="skip-link" href="#main">{c['skip']}</a>
   <header class="site-header"><div class="header-inner">
     <a class="brand" href="{url(lang)}" aria-label="Boxmello · {c['nav'][0]}"><img class="wordmark" src="{BASE}/assets/wordmark.png" width="1600" height="369" alt="Boxmello"></a>
-    <nav class="main-nav" aria-label="{'Main navigation' if lang == 'en' else 'Ana gezinme'}">{nav}</nav>
-    <nav class="language-nav" aria-label="{'Language' if lang == 'en' else 'Dil'}">{languages}</nav>
+    <nav class="main-nav" aria-label="{main_label}">{nav}</nav>
+    <details class="language-picker"><summary aria-label="{language_label}: {native}"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c5 5 5 13 0 18M12 3c-5 5-5 13 0 18"/></svg><span>{native}</span></summary><nav class="language-menu" aria-label="{language_label}">{languages}</nav></details>
   </div></header>
   <main id="main" class="container" tabindex="-1">{main}</main>
   <footer class="site-footer"><div class="footer-inner">
-    <div><strong>Boxmello</strong><p>{c['footer']}</p><p>© 2026 Bayram Baş · <a href="mailto:{EMAIL}">{EMAIL}</a></p></div>
-    <nav aria-label="{'Legal information' if lang == 'en' else 'Hukuki bilgiler'}">{footer_links}</nav>
+    <div><strong>Boxmello</strong><p>{c['footer']}</p><p>© 2026 <bdi>Bayram Baş</bdi> · <a href="mailto:{EMAIL}"><bdi dir="ltr">{EMAIL}</bdi></a></p></div>
+    <nav aria-label="{legal_label}">{footer_links}</nav>
     <p class="footer-note">{c['footer_note']}</p>
   </div></footer>
 </body>
@@ -87,7 +93,7 @@ def home(lang):
     <section class="section-heading" aria-labelledby="documents-title"><h2 id="documents-title">{c['documents_title']}</h2><p>{c['documents_intro']}</p></section>
     <div class="card-grid">{cards}</div>
     <div class="support-grid">
-      <section class="contact-card" id="contact" aria-labelledby="contact-title"><p class="eyebrow">{'HERE TO HELP' if lang == 'en' else 'YARDIM İÇİN'}</p><h2 id="contact-title">{c['contact_title']}</h2><p>{c['contact_copy']}</p><a class="contact-email" href="mailto:{EMAIL}">{EMAIL}</a><p>{c['contact_hint']}</p><p class="muted">{c['contact_safety']}</p></section>
+      <section class="contact-card" id="contact" aria-labelledby="contact-title"><p class="eyebrow">{LANGUAGES[lang][5]}</p><h2 id="contact-title">{c['contact_title']}</h2><p>{c['contact_copy']}</p><a class="contact-email" href="mailto:{EMAIL}"><bdi dir="ltr">{EMAIL}</bdi></a><p>{c['contact_hint']}</p><p class="muted">{c['contact_safety']}</p></section>
       <section class="faq" id="faq" aria-labelledby="faq-title"><h2 id="faq-title">{c['faq_title']}</h2>{faqs}</section>
     </div>'''
     return shell(lang, '', CONTENT[lang]['nav'][0], c['lede'], main)
@@ -98,7 +104,7 @@ def legal(lang, route):
     page = c['pages'][route]
     toc = ''.join(f'<li><a href="#{sid}">{escape(heading)}</a></li>' for sid, heading, _ in page['sections'])
     sections = ''.join(f'<section id="{sid}"><h2>{escape(heading)}</h2>{expand(body, lang)}</section>' for sid, heading, body in page['sections'])
-    main = f'''<a class="back-link" href="{url(lang)}">← {c['back']}</a>
+    main = f'''<a class="back-link" href="{url(lang)}">{'→' if LANGUAGES[lang][1] == 'rtl' else '←'} {c['back']}</a>
     <div class="legal-layout"><aside class="toc"><nav class="desktop-toc" aria-label="{c['contents']}"><p>{c['contents']}</p><ol>{toc}</ol></nav><details class="mobile-toc"><summary>{c['contents']}</summary><nav aria-label="{c['contents']}"><ol>{toc}</ol></nav></details></aside>
       <article class="legal-content"><header class="legal-heading"><p class="eyebrow">{page['eyebrow']}</p><h1>{page['title']}</h1><p class="lede">{page['lede']}</p><p class="meta"><time datetime="2026-10-14">{c['updated']}</time> · v1.0</p></header>{sections}</article>
     </div>'''
@@ -108,15 +114,15 @@ def legal(lang, route):
 def build():
     for lang in CONTENT:
         for route in ROUTES:
-            target = DOCS / ('tr' if lang == 'tr' else '') / route
+            target = DOCS / (lang if lang != 'en' else '') / route
             target.mkdir(parents=True, exist_ok=True)
             (target / 'index.html').write_text(home(lang) if not route else legal(lang, route), encoding='utf-8')
     not_found = '<section class="legal-heading"><p class="eyebrow">404</p><h1>Page not found · Sayfa bulunamadı</h1><p class="lede">The page may have moved. / Sayfanın adresi değişmiş olabilir.</p><div class="button-row"><a class="button" href="' + url('en') + '">English support</a><a class="button secondary" href="' + url('tr') + '">Türkçe destek</a></div></section>'
     (DOCS / '404.html').write_text(shell('en', '', 'Page not found', 'Boxmello support', not_found), encoding='utf-8')
-    entries = '\n'.join(f'  <url><loc>{ORIGIN}{url(lang, route)}</loc><lastmod>2026-10-14</lastmod></url>' for lang in CONTENT for route in ROUTES)
+    entries = '\n'.join(f'  <url><loc>{ORIGIN}{url(lang, route)}</loc><lastmod>{PUBLISHED_DATE}</lastmod></url>' for lang in CONTENT for route in ROUTES)
     (DOCS / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + entries + '\n</urlset>\n', encoding='utf-8')
     (DOCS / '.nojekyll').touch()
-    print('Built 10 bilingual pages, a 404 page, and sitemap.')
+    print(f'Built {len(CONTENT) * len(ROUTES)} pages in {len(CONTENT)} languages, a 404 page, and sitemap.')
 
 
 if __name__ == '__main__':

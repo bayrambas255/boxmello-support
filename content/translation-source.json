@@ -1,0 +1,29 @@
+{
+  "english_source_sha256": "a10e4bd72f785330ed660f1e8ab2aa808eb34c041c30246615663b63ee55d4e1",
+  "source_policy_effective_date": "2026-10-14",
+  "translation_release_date": "2026-10-15",
+  "locales": [
+    "en",
+    "tr",
+    "es-419",
+    "pt-BR",
+    "fr",
+    "ru",
+    "uk",
+    "ar",
+    "hi",
+    "bn",
+    "ur",
+    "id",
+    "ms",
+    "vi",
+    "th",
+    "fil",
+    "ja",
+    "ko",
+    "zh-Hans",
+    "zh-Hant",
+    "he"
+  ],
+  "review_scope": "Translation meaning review and automated source structure/link parity; no claim of native legal certification or country-by-country legal assessment."
+}

@@ -1,0 +1,273 @@
+{
+  "nav": [
+    "Dukungan",
+    "Privasi",
+    "Ketentuan",
+    "Data dan penghapusan",
+    "Lisensi"
+  ],
+  "skip": "Langsung ke konten",
+  "contents": "Di halaman ini",
+  "back": "Kembali ke dukungan",
+  "updated": "Berlaku dan terakhir diperbarui: 14 Oktober 2026",
+  "footer": "Dukungan dan informasi hukum untuk Boxmello.",
+  "footer_note": "Tidak ada iklan atau analitik pengunjung yang ditambahkan ke situs ini. Privasi hosting dijelaskan dalam Kebijakan Privasi kami.",
+  "home": {
+    "title": "Sedikit bantuan untuk Boxmello.",
+    "eyebrow": "BOXMELLO · DUKUNGAN",
+    "lede": "Ada pertanyaan tentang teka-teki, pembelian, atau data Anda? Temukan jawabannya di sini, atau kirim email langsung kepada pengembang.",
+    "contact_button": "Kirim email ke dukungan",
+    "faq_button": "Lihat pertanyaan umum",
+    "facts": [
+      "Tanpa akun game",
+      "Progres disimpan di perangkat Anda",
+      "Pembelian dalam aplikasi bersifat opsional"
+    ],
+    "documents_title": "Informasi Anda, dijelaskan dengan jelas.",
+    "documents_intro": "Privasi, pembelian, dan ketentuan yang berlaku saat Anda bermain.",
+    "cards": [
+      [
+        "privacy",
+        "01 · PRIVASI ANDA",
+        "Kebijakan Privasi",
+        "Apa yang tetap berada di perangkat Anda, apa yang ditangani Apple, dan apa yang terjadi saat Anda menghubungi dukungan."
+      ],
+      [
+        "terms",
+        "02 · BERMAIN BOXMELLO",
+        "Ketentuan Penggunaan",
+        "Aturan game, pembelian opsional, pengembalian dana, dan EULA Standar Apple."
+      ],
+      [
+        "data-deletion",
+        "03 · KENDALI ANDA",
+        "Data dan penghapusan",
+        "Hapus simpanan lokal, kelola cadangan, atau minta penghapusan korespondensi dukungan."
+      ],
+      [
+        "licenses",
+        "04 · PENGHARGAAN",
+        "Lisensi dan kredit",
+        "Kredit font pihak ketiga dan pemberitahuan lengkap lisensi font terbuka."
+      ]
+    ],
+    "contact_title": "Hubungi kami.",
+    "contact_copy": "Boxmello dikembangkan oleh Bayram Baş. Untuk bantuan, laporan bug, masukan aksesibilitas, atau permintaan privasi, kirim email ke:",
+    "contact_hint": "Cantumkan model perangkat, versi iOS, versi Boxmello (di Pengaturan), nomor level jika relevan, dan apa yang terjadi. Tangkapan layar dapat membantu; hapus informasi pribadi terlebih dahulu.",
+    "contact_safety": "Jangan pernah mengirim kata sandi Akun Apple, detail kartu pembayaran, atau dokumen identitas Anda. Jika detail pembelian diperlukan, kami akan meminta informasi seminimal mungkin.",
+    "faq_title": "Pertanyaan umum",
+    "faqs": [
+      [
+        "Di mana progres saya disimpan?",
+        "<p>Di perangkat Anda, bersama saldo koin, bantuan, dekorasi, dan pengaturan. Boxmello tidak memiliki akun game atau sinkronisasi cloud sendiri. Cadangan perangkat mungkin berisi data aplikasi, bergantung pada pengaturan Apple Anda, tetapi bukan layanan pemulihan Boxmello yang terjamin.</p><p><strong>Hubungi dukungan sebelum menghapus atau menginstal ulang aplikasi untuk memperbaiki masalah.</strong> Melakukannya dapat menyebabkan hilangnya progres dan koin yang belum digunakan.</p>"
+      ],
+      [
+        "Bagaimana cara memulihkan Pos mint (Mint Post)?",
+        "<p>Gunakan Akun Apple yang digunakan untuk pembelian awal, hubungkan ke internet, lalu pilih <strong>Pulihkan pembelian</strong> di Toko atau Pengaturan dalam game. Ini memeriksa pembelian kosmetik permanen yang memenuhi syarat, termasuk Pos mint (Mint Post). Ini tidak membangun kembali progres level atau saldo koin habis pakai Anda.</p>"
+      ],
+      [
+        "Pembelian masih tertunda atau belum muncul. Apa yang harus saya lakukan?",
+        "<p>Jangan membayar lagi untuk pembelian yang sama yang belum diterima. Periksa koneksi Anda dan apakah Apple sedang menunggu pembayaran atau persetujuan keluarga. Buka kembali Boxmello agar dapat mencoba kembali penyerahan yang sudah diverifikasi. Untuk Pos mint (Mint Post), coba juga Pulihkan pembelian. Jika masalah belum teratasi, kirim email kepada pengembang dengan nama produk, perkiraan waktu pembelian, versi aplikasi, dan pesan yang ditampilkan. Tutupi informasi tanda terima yang tidak terkait.</p>"
+      ],
+      [
+        "Bisakah saya memulihkan paket koin atau memindahkan progres ke perangkat lain?",
+        "<p>Paket koin adalah pembelian habis pakai. Pulihkan pembelian tidak membuat ulang koin yang telah diserahkan, item yang telah digunakan, atau progres lokal. Tidak ada dompet berbasis akun atau sinkronisasi simpanan antarperangkat. Mengganti perangkat atau menghapus aplikasi dapat menyebabkan hilangnya sisa koin dan progres Anda.</p>"
+      ],
+      [
+        "Bagaimana cara kerja pengembalian dana?",
+        "<p>Apple menangani pembayaran dan permintaan pengembalian dana untuk pembelian App Store. Kunjungi <a href=\"https://reportaproblem.apple.com/\">layanan Laporkan Masalah Apple</a> atau baca <a href=\"https://support.apple.com/en-us/118223\">petunjuk pengembalian dana Apple</a>. Kelayakan bergantung pada pembelian dan hukum yang berlaku. Pengembalian dana yang telah diverifikasi dapat menghapus hak atas kosmetik terkait atau koin terkait yang belum digunakan.</p>"
+      ],
+      [
+        "Apakah Boxmello memerlukan koneksi internet?",
+        "<p>Permainan teka-teki biasa menggunakan konten yang disertakan dalam aplikasi dan dapat berjalan secara offline. Memuat produk App Store, melakukan pembelian, atau memulihkan pembelian permanen memerlukan akses ke layanan Apple. Email dukungan dan situs ini juga memerlukan koneksi.</p>"
+      ],
+      [
+        "Game macet, tertutup tiba-tiba, atau tidak menyimpan. Apa yang dapat saya coba?",
+        "<p>Tutup dan buka kembali Boxmello, periksa ruang penyimpanan yang tersedia di perangkat, dan instal pembaruan aplikasi serta iOS yang tersedia. Jika muncul kesalahan penyimpanan, biarkan aplikasi tetap terinstal dan kirim pesan persisnya ke dukungan. Hindari melakukan pembelian berulang atau menghapus aplikasi selama kami menyelidiki.</p>"
+      ],
+      [
+        "Bagaimana cara mengubah bahasa atau opsi aksesibilitas?",
+        "<p>Buka Pengaturan dalam game untuk bahasa, musik, suara, Getaran, Kurangi gerakan, dan Garis tepi lebih jelas. Jika teks, kontrol, atau VoiceOver sulit digunakan, kirim model perangkat dan deskripsi layar Anda ke dukungan.</p>"
+      ],
+      [
+        "Bagaimana cara menghapus data saya?",
+        "<p>Tidak ada akun Boxmello yang perlu dihapus. Data aplikasi lokal, cadangan perangkat, email dukungan, dan catatan pembelian Apple ditangani secara terpisah. Ikuti <a href=\"{DATA}\">panduan data dan penghapusan</a> untuk masing-masingnya.</p>"
+      ]
+    ]
+  },
+  "pages": {
+    "privacy": {
+      "title": "Kebijakan Privasi",
+      "eyebrow": "PRIVASI ANDA",
+      "lede": "Penjelasan praktis mengenai simpanan lokal Boxmello, layanan Apple, email dukungan, dan situs ini. Ini juga merupakan pemberitahuan kami berdasarkan Undang-Undang Perlindungan Data Pribadi Turki (KVKK).",
+      "sections": [
+        [
+          "controller",
+          "1. Siapa yang bertanggung jawab?",
+          "<p>Boxmello disediakan oleh <strong>Bayram Baş</strong> di Turki. Untuk data pribadi yang ditangani pengembang, Bayram Baş adalah pengendali data. Kontak: <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>.</p><p>Kebijakan ini mencakup game iOS/iPadOS saat ini, situs dukungan ini, dan korespondensi dengan pengembang. Apple dan GitHub juga memproses informasi untuk layanan mereka sendiri berdasarkan pemberitahuan privasi masing-masing.</p>"
+        ],
+        [
+          "game-data",
+          "2. Data yang disimpan dalam game",
+          "<p>Permainan normal dari App Store tidak mengirim simpanan game Anda ke server pengembang. Boxmello tidak memiliki akun game, SDK iklan, SDK analitik pihak ketiga, atau pelacakan lintas aplikasi. Aplikasi tidak meminta akses ke lokasi, kontak, kamera, atau mikrofon Anda.</p><p>Aplikasi menyimpan pengenal profil lokal yang dibuat secara acak, progres level, skor dan bintang, status teka-teki aktif, saldo koin dan bantuan, dekorasi, hadiah harian, status tutorial, serta pengaturan. Aplikasi juga menyimpan catatan verifikasi pembelian, seperti pengenal produk dan transaksi, tanggal pemrosesan, status pengembalian dana, dan hak pembelian permanen. Data ini memungkinkan aplikasi menyimpan game, menghindari penyerahan pembelian ganda, dan menerapkan perubahan pembelian yang telah diverifikasi.</p><p>Simpanan dan salinan pemulihannya berada di perangkat yang sama. Keduanya bukan cadangan cloud yang independen. Fitur pencadangan atau migrasi perangkat Apple dapat menyertakan data ini bergantung pada pengaturan Anda. Pengembang tidak memiliki akses jarak jauh ke simpanan lokal Anda.</p><p>Data simpanan lokal dan informasi StoreKit diproses secara elektronik dan otomatis di perangkat untuk menyediakan game dan memverifikasi pembelian, dengan dasar pelaksanaan kontrak dalam Pasal 5(2)(c) KVKK.</p>"
+        ],
+        [
+          "apple",
+          "3. Pembelian dan informasi yang disediakan Apple",
+          "<p>Apple menangani pembayaran App Store melalui StoreKit. Boxmello menerima informasi transaksi dan hak yang telah diverifikasi di perangkat Anda untuk menyerahkan pembelian serta menangani pemulihan atau pengembalian dana. Pengembang tidak menerima detail kartu pembayaran atau kata sandi Akun Apple Anda.</p><p>Apple dapat menyediakan ringkasan penjualan dan laporan kinerja atau kerusakan aplikasi kepada pengembang. Berbagi data penggunaan dan kerusakan bergantung pada layanan Apple dan pilihan di perangkat Anda; ini terpisah dari SDK analitik di Boxmello. Lihat <a href=\"https://www.apple.com/legal/privacy/data/en/app-analytics/\">Analitik Aplikasi dan Privasi</a> serta <a href=\"https://www.apple.com/legal/privacy/en-ww/\">Kebijakan Privasi Apple</a>. Anda dapat meninjau pengaturan berbagi di Pengaturan iOS → Privasi dan Keamanan → Analisis dan Peningkatan.</p><p>Laporan diagnostik yang disimpan pengembang digunakan untuk mengidentifikasi dan memperbaiki kesalahan, berdasarkan kepentingan yang sah menurut Pasal 5(2)(f) KVKK, yang ditimbang terhadap hak Anda. Salinan yang disimpan pengembang hanya dipertahankan selama diperlukan untuk menyelidiki dan menyelesaikan masalah atau memenuhi kewajiban maupun tuntutan hukum, lalu dihapus atau dianonimkan. Apple mengendalikan retensi laporan dalam layanannya sendiri.</p>"
+        ],
+        [
+          "support",
+          "4. Korespondensi dukungan dan dasar hukum",
+          "<p>Jika Anda mengirim email kepada pengembang, alamat email, nama pengirim, pesan, serta lampiran atau detail teknis yang Anda pilih untuk diberikan akan diterima melalui iCloud Mail. Alamat email dan informasi yang cukup tentang pertanyaan Anda diperlukan untuk membalas melalui email; Anda dapat bermain tanpa menghubungi kami. Hindari mengirim informasi pribadi sensitif.</p><p>Data dukungan digunakan untuk menjawab permintaan Anda, menyelidiki masalah, membantu pembelian, memperbaiki masalah yang dilaporkan, atau menangani permintaan privasi. Data tersebut tidak digunakan untuk iklan, milis, penjualan data pribadi, atau keputusan otomatis tentang Anda.</p><div class=\"table-wrap\"><table><caption>Tujuan dan dasar hukum untuk data dukungan yang ditangani pengembang</caption><thead><tr><th scope=\"col\">Tujuan</th><th scope=\"col\">Dasar KVKK</th></tr></thead><tbody><tr><td>Menjawab dukungan game atau pembelian yang diperlukan untuk menyediakan game</td><td>Pasal 5(2)(c): pelaksanaan kontrak</td></tr><tr><td>Menyelidiki kesalahan dan melindungi korespondensi dukungan dari penyalahgunaan, dengan menghormati hak Anda</td><td>Pasal 5(2)(f): kepentingan yang sah</td></tr><tr><td>Menanggapi permintaan data berdasarkan hukum atau pengungkapan yang diwajibkan</td><td>Pasal 5(2)(ç): kewajiban hukum</td></tr><tr><td>Menyelesaikan sengketa atau menetapkan, menjalankan, atau membela tuntutan hukum</td><td>Pasal 5(2)(e): perlindungan hak</td></tr></tbody></table></div><p>Jika hukum privasi lain yang berlaku memerlukan dasar berbeda, dasar kontrak, kewajiban hukum, atau kepentingan yang sah yang sesuai akan berlaku. Jika aktivitas opsional terpisah memerlukan persetujuan, persetujuan harus diminta secara terpisah; membaca kebijakan ini tidak dengan sendirinya memberikan persetujuan.</p>"
+        ],
+        [
+          "website",
+          "5. Hosting situs dan cookie",
+          "<p>Situs dukungan statis ini tidak memiliki cookie, penyimpanan lokal, iklan, formulir kontak, widget sosial tersemat, atau analitik pengunjung yang ditambahkan pengembang. Gambar dan gaya disajikan bersama situs; tidak ada layanan font pihak ketiga yang digunakan.</p><p>GitHub Pages menghosting situs ini. GitHub menyatakan bahwa mereka mencatat alamat IP pengunjung untuk keamanan, termasuk kunjungan saat tidak masuk ke akun. GitHub mengendalikan log hosting tersebut; pengembang tidak menerima log pengunjung individual melalui situs ini. Lihat <a href=\"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection\">pengumpulan data GitHub Pages</a> dan <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">Pernyataan Privasi GitHub</a>. Mengikuti tautan eksternal akan membawa Anda ke layanan penyedia tersebut.</p>"
+        ],
+        [
+          "sharing",
+          "6. Penerima dan pemrosesan di luar negara Anda",
+          "<p>Apple menyediakan pembayaran, pelaporan platform, pencadangan perangkat jika diaktifkan, dan layanan iCloud Mail. GitHub menyediakan hosting dan keamanan situs. Korespondensi dukungan ditangani oleh Bayram Baş dan layanan email yang digunakan untuk menyampaikannya. Informasi juga dapat diungkapkan kepada otoritas yang berwenang jika diwajibkan oleh hukum, atau kepada penasihat profesional jika diperlukan untuk tuntutan hukum, terbatas pada yang diperlukan.</p><p>Pesan dukungan diterima dan disimpan melalui iCloud Mail milik Apple; isi pesan, informasi pengirim, dan lampiran dapat diproses di infrastruktur di luar Turki atau negara tempat tinggal Anda. GitHub juga memproses log IP pengunjung di infrastruktur internasionalnya untuk menyajikan dan mengamankan situs ini. Pemberitahuan privasi Apple dan GitHub menjelaskan layanan tersebut. Mengunjungi situs ini atau mengirim email ke dukungan tidak dianggap sebagai persetujuan untuk transfer internasional. Pertanyaan tentang transfer tertentu yang melibatkan data yang disimpan pengembang dapat dikirim ke kontak di atas.</p>"
+        ],
+        [
+          "retention",
+          "7. Retensi dan keamanan",
+          "<p>Simpanan lokal tetap berada di perangkat Anda sampai data aplikasi dihapus; salinan cadangan perangkat atau cloud dikendalikan secara terpisah. Korespondensi dukungan hanya disimpan selama diperlukan untuk menyelesaikan permintaan dan tindak lanjut terkait, memenuhi kewajiban hukum yang berlaku, atau menetapkan, menjalankan, atau membela tuntutan hukum. Jangka waktu yang relevan bergantung pada masalah, sengketa yang belum terselesaikan, dan jangka waktu retensi atau kedaluwarsa yang berlaku secara hukum. Data yang tidak lagi diperlukan untuk tujuan tersebut dihapus atau dianonimkan.</p><p>Apple dan GitHub menentukan retensi untuk catatan yang mereka kendalikan. Perlindungan yang wajar digunakan untuk korespondensi yang disimpan pengembang; tidak ada metode penyimpanan atau pengiriman yang dapat menjamin keamanan sepenuhnya. Jangan sertakan kata sandi, detail kartu lengkap, atau dokumen identitas yang tidak diperlukan dalam pesan dukungan.</p>"
+        ],
+        [
+          "rights",
+          "8. Hak privasi Anda",
+          "<p>Berdasarkan Pasal 11 KVKK, Anda dapat menanyakan apakah data Anda diproses; meminta informasi tentang pemrosesan, tujuan, dan penggunaannya; mengetahui penerima dalam negeri atau luar negeri; meminta koreksi, penghapusan, atau pemusnahan jika syarat hukum terpenuhi; dan meminta agar penerima diberi tahu tentang koreksi atau penghapusan tersebut. Anda dapat menolak hasil yang merugikan yang hanya didasarkan pada analisis otomatis dan menuntut ganti rugi atas pemrosesan yang melanggar hukum. Boxmello tidak membuat keputusan otomatis semacam itu.</p><p>Hukum lain yang berlaku juga dapat memberikan hak akses, portabilitas, pembatasan, keberatan, dan penarikan persetujuan. Anda dapat mengajukan keluhan kepada otoritas perlindungan data yang relevan. Untuk Turki, lihat <a href=\"https://www.kvkk.gov.tr/Icerik/2036/Ilgili-Kisinin-Haklari\">panduan hak KVKK</a>.</p><p>Kirim email kepada pengembang dari alamat yang digunakan dalam korespondensi Anda, dengan menjelaskan permintaan Anda. Kami dapat meminta verifikasi yang proporsional dan detail yang diwajibkan oleh prosedur yang berlaku. Permintaan dijawab dalam batas waktu hukum yang berlaku, termasuk paling lambat 30 hari jika KVKK berlaku. Pengecualian retensi yang diwajibkan secara hukum akan dijelaskan. Lihat <a href=\"{DATA}\">panduan data dan penghapusan</a>. Pengembang tidak dapat memeriksa atau menghapus dari jarak jauh simpanan yang hanya berada di perangkat Anda, atau menghapus catatan yang dikendalikan Apple maupun GitHub.</p>"
+        ],
+        [
+          "children",
+          "9. Anak-anak dan keluarga",
+          "<p>Game tidak mewajibkan anak-anak atau pemain lain memberikan akun atau detail pribadi untuk bermain. Kami tidak meminta anak-anak mengirim informasi pribadi atau menggunakan data mereka untuk iklan. Orang tua atau wali sebaiknya menangani pertanyaan dukungan dan pembelian untuk anak. Jika Anda yakin seorang anak telah mengirim informasi pribadi, hubungi pengembang agar informasi tersebut dapat ditinjau dan dihapus jika sesuai. Ikuti peringkat usia yang ditampilkan di App Store dan persyaratan izin orang tua yang berlaku.</p>"
+        ],
+        [
+          "beta",
+          "10. Sesi beta dan uji permainan opsional",
+          "<p>Versi TestFlight atau pengembangan dapat berisi mode uji permainan opsional yang diaktifkan peneliti. Saat diaktifkan, mode ini menulis kode peserta, peristiwa permainan, waktu, dan informasi build ke file lokal. File tersebut tidak diunggah secara otomatis; pelaksana eksperimen dapat sengaja mengekspornya melalui menu berbagi perangkat. Versi App Store normal tidak mengaktifkan mode ini. Studi terorganisasi harus menjelaskan tujuan, penerima, retensi, dan pilihan partisipasinya sebelum mengumpulkan atau mengekspor data studi. Layanan TestFlight Apple memiliki ketentuan privasinya sendiri.</p>"
+        ],
+        [
+          "changes",
+          "11. Perubahan dan kontak",
+          "<p>Tanggal di atas mengidentifikasi versi ini. Pemberitahuan ini akan diperbarui jika praktik data berubah; pemberitahuan atau persetujuan tambahan yang diwajibkan hukum harus diberikan sebelum pemrosesan baru yang relevan. Pertanyaan dan permintaan privasi: <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>.</p>"
+        ]
+      ]
+    },
+    "terms": {
+      "title": "Ketentuan Penggunaan",
+      "eyebrow": "BERMAIN BOXMELLO",
+      "lede": "Ketentuan khusus game, informasi pembelian, dan tautan langsung ke EULA Standar Apple.",
+      "sections": [
+        [
+          "provider",
+          "1. Penyedia dan cakupan",
+          "<p>Boxmello disediakan oleh <strong>Bayram Baş</strong>, Turki. Dukungan: <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>. Ketentuan ini menjelaskan penggunaan game dan pembelian opsional. Bacalah sebelum bermain atau melakukan pembelian. Hak konsumen yang bersifat wajib dan berlaku tetap berlaku.</p>"
+        ],
+        [
+          "license",
+          "2. Lisensi aplikasi",
+          "<div class=\"callout\"><p>Lisensi aplikasi App Store diatur oleh <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Perjanjian Lisensi Pengguna Akhir Standar Apple (EULA)</a>, kecuali EULA khusus yang terpisah disediakan secara tegas melalui App Store. Halaman ini merupakan informasi game tambahan dan tidak menggantikan EULA Standar Apple.</p></div><p>Jika ketentuan tambahan ini bertentangan dengan lisensi App Store yang berlaku atau hukum yang bersifat wajib, lisensi atau hukum tersebut diutamakan. Game, merek, karya seni, dan konten lain dilindungi oleh hak kekayaan intelektual yang berlaku. Materi pihak ketiga tetap tunduk pada lisensi masing-masing; lihat <a href=\"{LICENSES}\">lisensi dan kredit</a>.</p>"
+        ],
+        [
+          "use",
+          "3. Penggunaan yang adil dan sah",
+          "<p>Gunakan game untuk hiburan pribadi yang sah dan sesuai dengan lisensi yang berlaku. Jangan mengutak-atik verifikasi pembelian, memperoleh item digital secara curang, mendistribusikan salinan tanpa izin, atau menggunakan saluran dukungan untuk melecehkan orang lain. Pembatasan ini tidak menghapus hak yang diberikan kepada Anda oleh hukum yang bersifat wajib atau lisensi sumber terbuka yang berlaku.</p><p>Ikuti peringkat usia yang ditampilkan di App Store. Jika secara hukum Anda tidak dapat menyetujui ketentuan ini atau melakukan pembelian sendiri, libatkan orang tua atau wali dan ikuti kontrol pembelian Apple.</p>"
+        ],
+        [
+          "purchases",
+          "4. Pembelian dalam aplikasi opsional",
+          "<p>Game saat ini menawarkan empat paket koin habis pakai dan pembelian kosmetik permanen Pos mint (Mint Post). Tidak ada langganan. Pembelian bersifat opsional; kampanye 120 level saat ini dapat dimainkan tanpa membeli paket atau kosmetik. Koin juga dapat diperoleh melalui permainan dan digunakan untuk bantuan dalam game atau item bengkel.</p><p>Harga, mata uang, perlakuan pajak, dan otorisasi pembelian yang ditampilkan Apple saat pembayaran berlaku. Ketersediaan dan harga dapat berbeda menurut wilayah toko. Koin dan kosmetik adalah item game digital, bukan uang, simpanan dana, atau properti yang dapat dialihkan. Item tersebut tidak dapat diperdagangkan atau ditukarkan dengan uang tunai melalui Boxmello; hal ini tidak membatasi hak pengembalian dana berdasarkan undang-undang.</p>"
+        ],
+        [
+          "saves",
+          "5. Simpanan lokal dan pemulihan pembelian",
+          "<p>Progres, bantuan, dan saldo koin disimpan di perangkat Anda. Boxmello tidak memiliki akun game, dompet cloud, atau sinkronisasi simpanan antarperangkat sendiri. Menghapus aplikasi, kehilangan datanya, atau mengganti perangkat dapat menyebabkan hilangnya progres dan saldo habis pakai yang belum digunakan. Salinan pemulihan lokal membantu mengatasi sebagian kesalahan penyimpanan, tetapi berada di perangkat yang sama. Cadangan Apple bukan metode pemulihan yang terjamin.</p><p>Pulihkan pembelian di Toko atau Pengaturan memeriksa pembelian permanen yang memenuhi syarat, seperti Pos mint (Mint Post), menggunakan Akun Apple pembelian awal. Ini tidak membuat ulang paket koin yang telah diserahkan, saldo lokal, atau progres level. Jika pembayaran tertunda atau penyerahan terverifikasi belum selesai, hubungi dukungan sebelum membeli lagi atau menghapus aplikasi.</p>"
+        ],
+        [
+          "refunds",
+          "6. Pengembalian dana dan penagihan",
+          "<p>Apple memproses pembayaran App Store. Minta pengembalian dana melalui <a href=\"https://reportaproblem.apple.com/\">reportaproblem.apple.com</a>; <a href=\"https://support.apple.com/en-us/118223\">petunjuk Apple</a> menjelaskan prosesnya. Kelayakan mengikuti hukum yang berlaku dan ketentuan Apple. Hubungi dukungan Boxmello untuk masalah teknis penyerahan.</p><p>Ketika Apple melaporkan pengembalian dana atau pencabutan yang telah diverifikasi, hak kosmetik permanen terkait atau koin terkait yang belum digunakan dapat dihapus. Game tidak membuat saldo koin negatif untuk koin yang dikembalikan dananya tetapi sudah digunakan. Tidak ada ketentuan di sini yang mengecualikan hak wajib atas pembatalan, pengembalian dana, perbaikan, atau pemulihan konsumen lainnya.</p>"
+        ],
+        [
+          "availability",
+          "7. Pembaruan dan ketersediaan",
+          "<p>Boxmello memerlukan perangkat dan sistem operasi yang kompatibel. Permainan teka-teki inti berfungsi secara offline; layanan App Store dan dukungan memerlukan koneksi. Pembaruan dapat memperbaiki kesalahan atau mengubah fitur. Kompatibilitas berkelanjutan dengan setiap perangkat atau sistem operasi di masa depan tidak dapat dijamin. Perubahan yang memengaruhi hak berbayar tetap tunduk pada lisensi yang berlaku dan hukum konsumen.</p><p>Jika suatu masalah memengaruhi progres atau pembelian Anda, hubungi dukungan. Ketentuan tambahan ini tidak menambahkan pelepasan tanggung jawab menyeluruh atau menggantikan ketentuan jaminan dan tanggung jawab dalam lisensi yang berlaku. Tanggung jawab yang secara hukum tidak dapat dikecualikan tetap tidak terpengaruh.</p>"
+        ],
+        [
+          "privacy",
+          "8. Privasi",
+          "<p><a href=\"{PRIVACY}\">Kebijakan Privasi</a> menjelaskan simpanan lokal, layanan Apple, korespondensi dukungan, hosting situs, dan hak Anda. Ini merupakan pemberitahuan transparansi; penggunaan game bukan persetujuan menyeluruh untuk pemrosesan data pribadi opsional.</p>"
+        ],
+        [
+          "disputes",
+          "9. Pertanyaan, sengketa, dan perubahan",
+          "<p>Kirim pertanyaan atau keluhan ke <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a>. Ketentuan tambahan ini diatur oleh hukum Turki sejauh diizinkan, tanpa menghilangkan perlindungan wajib atau akses Anda ke pengadilan yang berwenang dan otoritas konsumen di tempat tinggal Anda. Lisensi aplikasi memiliki ketentuan hukum yang mengatur tersendiri.</p><p>Perubahan penting akan tercermin pada tanggal di atas dan diberitahukan kepada Anda jika diwajibkan. Perubahan tersebut tidak menghapus secara retroaktif hak berdasarkan undang-undang yang telah timbul. Terjemahan disediakan untuk kemudahan; perbedaan akan diselesaikan secara konsisten dengan lisensi yang berlaku dan hukum konsumen yang bersifat wajib.</p>"
+        ]
+      ]
+    },
+    "data-deletion": {
+      "title": "Data Anda dan penghapusan",
+      "eyebrow": "KENDALI ANDA",
+      "lede": "Tidak ada akun Boxmello. Simpanan perangkat, pesan dukungan, dan catatan pihak ketiga masing-masing memiliki jalur penghapusan yang berbeda.",
+      "sections": [
+        [
+          "before",
+          "1. Sebelum menghapus",
+          "<div class=\"callout\"><p><strong>Menghapus aplikasi dapat menyebabkan hilangnya progres dan koin yang belum digunakan secara permanen.</strong> Jika Anda mencoba memperbaiki masalah, hubungi dukungan terlebih dahulu. Pulihkan pembelian memulihkan kosmetik permanen yang memenuhi syarat, bukan saldo koin atau progres teka-teki Anda.</p></div><p>Tidak ada tombol khusus dalam game untuk menghapus data atau akun. Pengembang tidak memiliki salinan simpanan Anda di server dan tidak dapat mengatur ulang atau memulihkannya dari jarak jauh.</p>"
+        ],
+        [
+          "local",
+          "2. Menghapus data aplikasi lokal",
+          "<ol><li>Buka <strong>Pengaturan → Umum → Penyimpanan iPhone / Penyimpanan iPad → Boxmello</strong> di iPhone atau iPad.</li><li>Pilih <strong>Hapus App</strong> dan konfirmasikan. <strong>Keluarkan App</strong> menyimpan dokumen dan data, sehingga merupakan tindakan yang berbeda.</li><li>Periksa perangkat lain yang terinstal Boxmello; setiap perangkat dapat memiliki simpanan lokal sendiri.</li></ol><p>Ini menghapus kontainer aplikasi Boxmello dari perangkat tersebut, termasuk simpanan lokal dan file pemulihannya. Menginstal ulang membuat simpanan baru, kecuali cadangan atau migrasi sistem operasi memulihkan data sebelumnya. Ini tidak menghapus riwayat pembelian App Store Anda.</p>"
+        ],
+        [
+          "backups",
+          "3. Mengelola cadangan secara terpisah",
+          "<p>Data aplikasi mungkin tetap ada dalam cadangan iCloud atau komputer sesuai pengaturan Anda. Tinjau Boxmello di pengaturan cadangan iCloud perangkat, lalu hapus atau kecualikan data cadangannya jika Anda juga ingin menghapus salinan tersebut. Tinjau cadangan Mac atau PC secara terpisah. Label menu Apple dapat berbeda menurut versi sistem operasi; lihat <a href=\"https://support.apple.com/en-us/108922\">panduan penyimpanan iCloud Apple</a>. Menghapus cadangan dapat memengaruhi pemulihan data lain, jadi tinjau pilihan Anda.</p>"
+        ],
+        [
+          "email",
+          "4. Meminta penghapusan korespondensi dukungan",
+          "<p>Kirim email ke <a href=\"mailto:bayrambas255@icloud.com?subject=Boxmello%20privacy%20request\">bayrambas255@icloud.com</a> dengan subjek <strong>Permintaan privasi Boxmello</strong>. Jika memungkinkan, gunakan alamat email yang sebelumnya digunakan untuk menghubungi dukungan dan cantumkan:</p><ul><li>Nama depan dan nama belakang Anda.</li><li>Permintaan: penghapusan, akses, koreksi, atau hak privasi lainnya.</li><li>Korespondensi atau perkiraan tanggal yang terkait.</li><li>Alamat balasan jika berbeda dari alamat pengirim.</li></ul><p>Jangan mengirim kata sandi, nomor kartu pembayaran lengkap, atau dokumen identitas tanpa diminta. Verifikasi yang wajar atau detail yang diwajibkan oleh prosedur hukum yang berlaku dapat diminta. Kami akan menghapus atau menganonimkan data yang disimpan pengembang jika syarat hukum terpenuhi, dan menjelaskan data yang harus disimpan untuk kewajiban atau tuntutan hukum. Permintaan dijawab dalam tenggat waktu hukum yang berlaku, termasuk paling lama 30 hari jika KVKK berlaku.</p><p>Permintaan dukungan dan penghapusan sederhana dapat menggunakan metode di atas. Permohonan resmi berdasarkan KVKK harus dalam bahasa Turki dan dikirim dari alamat email yang sebelumnya telah diberikan kepada dan terdaftar pada pengembang, atau menggunakan metode lain yang diizinkan oleh komunike yang berlaku. Pasal 5 mewajibkan permohonan resmi mencantumkan detail yang ditentukan, seperti nama, permintaan, alamat untuk pemberitahuan, dan informasi identitas yang relevan. Lihat <a href=\"https://www.kvkk.gov.tr/Icerik/6938/Kurumumuza-Yapilan-Sikayetlerin-Usul-Sartlarina-Iliskin-Kamuoyu-Duyurusu\">prosedur permohonan resmi</a>. Jangan mengirim salinan dokumen identitas tanpa diminta.</p>"
+        ],
+        [
+          "other",
+          "5. Catatan Apple dan GitHub",
+          "<p>Menghapus Boxmello atau mengirim email kepada pengembangnya tidak menghapus riwayat penagihan Apple, data Akun Apple, atau log keamanan hosting GitHub. Untuk catatan yang mereka kendalikan, gunakan <a href=\"https://privacy.apple.com/\">alat Data dan Privasi Apple</a> atau metode kontak dalam <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">Pernyataan Privasi GitHub</a>. Salinan cadangan Apple juga harus dikelola melalui pengaturan Apple Anda.</p><p>Penghapusan simpanan lokal tidak dengan sendirinya membatalkan pembelian, meminta pengembalian dana, atau mencabut hak kosmetik permanen yang sah. Apple dapat menyediakan hak tersebut kembali melalui Pulihkan pembelian.</p>"
+        ],
+        [
+          "rights",
+          "6. Selengkapnya tentang hak Anda",
+          "<p><a href=\"{PRIVACY}#rights\">Kebijakan Privasi</a> menjelaskan tujuan pemrosesan, penerima, dasar hukum, retensi, serta hak privasi Anda berdasarkan KVKK dan hukum lain yang berlaku. Anda dapat menghubungi otoritas perlindungan data yang relevan berdasarkan prosedur keluhan yang berlaku.</p>"
+        ]
+      ]
+    },
+    "licenses": {
+      "title": "Lisensi dan kredit",
+      "eyebrow": "PENGHARGAAN",
+      "lede": "Jenis huruf yang membantu memberi karakter pada Boxmello dan lisensi yang berlaku untuk aplikasi.",
+      "sections": [
+        [
+          "app",
+          "1. Aplikasi dan konten",
+          "<p>Boxmello dikembangkan oleh Bayram Baş. Aplikasi dilisensikan berdasarkan <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">EULA Standar Apple</a>, dengan tunduk pada lisensi App Store yang berlaku yang disertakan bersamanya. Informasi khusus game terdapat dalam <a href=\"{TERMS}\">Ketentuan Penggunaan</a>. Hak dan lisensi pihak ketiga di bawah tetap dimiliki oleh pemegang masing-masing.</p>"
+        ],
+        [
+          "fonts",
+          "2. Penghargaan font terbuka",
+          "<p>Game menyertakan <strong>Baloo 2</strong> dan <strong>Nunito</strong> berdasarkan SIL Open Font License, Versi 1.1. Situs dukungan ini menggunakan font sistem; situs tidak memuat font dari layanan eksternal.</p><ul><li>Baloo 2 — Copyright 2019 The Baloo 2 Project Authors. <a href=\"https://github.com/EkType/Baloo2\">Proyek</a> · <a href=\"{ASSETS}/OFL-Baloo2.txt\">Pemberitahuan lisensi lengkap</a>.</li><li>Nunito — Copyright 2014 The Nunito Project Authors. <a href=\"https://github.com/googlefonts/nunito\">Proyek</a> · <a href=\"{ASSETS}/OFL-Nunito.txt\">Pemberitahuan lisensi lengkap</a>.</li></ul><p>Pemberitahuan hak cipta dan lisensi asli direproduksi dalam file yang ditautkan.</p>"
+        ],
+        [
+          "contact",
+          "3. Pertanyaan tentang hak",
+          "<p>Untuk pertanyaan tentang atribusi atau laporan masalah hak, hubungi <a href=\"mailto:bayrambas255@icloud.com\">bayrambas255@icloud.com</a> dan sebutkan materi serta kekhawatiran Anda.</p>"
+        ]
+      ]
+    }
+  }
+}
